@@ -1,26 +1,25 @@
-1/7 17:41:23.323  LogOpen
-1/7 17:41:23.323  World of Warcraft Retail x86_64 9.1.5.41488
-1/7 17:41:23.323  Windows 10 (10.0.22000) x86_64
-1/7 17:41:23.323  AMD Ryzen 7 5800X 8-Core Processor              | Sockets:1 Cores:8 Threads:16
-1/7 17:41:23.323  31.9 GB System Memory
-1/7 17:41:23.323  On AC Power - Battery Not Present
-1/7 17:41:23.521  Adapter 0: "AMD Radeon RX 6800 XT" family:RDNA2 type:Discrete vendor:0x1002 device:0x73bf driver(0x1e000036bb0bc9) location:12 dx11:true dx12:true
-1/7 17:41:23.521  	Monitor 0 "Generic PnP Monitor" Size(2560x1440) Pos(0, 0)
-1/7 17:41:23.521  	Monitor 1 "Generic PnP Monitor" Size(2560x1440) Pos(-2560, 0)
-1/7 17:41:23.521  AMD driver version: 21.40.11.03-211201a-374383E-RadeonSoftware (AGS 21.12.1)
-1/7 17:41:23.531  Choosing gpu by name: "AMD Radeon RX 6800 XT"
-1/7 17:41:23.531  D3d12 Device Create
-1/7 17:41:23.531  DXGI_FEATURE_PRESENT_ALLOW_TEARING:true
-1/7 17:41:23.585  DXGI_FORMAT_B8G8R8A8_UNORM UAV support: true
-1/7 17:41:23.585  Ray Tracing Support: DXR 1.1
-1/7 17:41:23.585  Variable Rate Shading Supported: true
-1/7 17:41:25.399  NotifyOnDeviceCreate
-1/7 17:41:25.409  D3d12 Device Create Successful
-1/7 17:41:25.409  <IsGPUDriverOutOfDate> No
-1/7 17:41:25.409  Detected Graphics Defaults: 7 (CPU = 7, GPU = 7, MEM = 7) WindowSize: 2560x1440
-1/7 17:41:25.485  Render Settings Changed. New Render Size: 2560x1440
-1/7 17:41:27.415  Detected SwapChain::Present Modified
-1/7 17:44:13.859  Render Settings Changed
-1/7 17:54:11.097  D3d12 Device Destroy
-1/7 17:54:11.097  NotifyOnDeviceDestroy
-1/7 17:54:11.367  GxShutdown
+1/7 18:26:57.256  LogOpen
+1/7 18:26:57.256  World of Warcraft Retail x86_64 9.1.5.41488
+1/7 18:26:57.256  Windows 10 (10.0.22000) x86_64
+1/7 18:26:57.256  AMD Ryzen 7 5800X 8-Core Processor              | Sockets:1 Cores:8 Threads:16
+1/7 18:26:57.256  31.9 GB System Memory
+1/7 18:26:57.256  On AC Power - Battery Not Present
+1/7 18:26:57.471  Adapter 0: "AMD Radeon RX 6800 XT" family:RDNA2 type:Discrete vendor:0x1002 device:0x73bf driver(0x1e000036bb0bc9) location:12 dx11:true dx12:true
+1/7 18:26:57.471  	Monitor 0 "Generic PnP Monitor" Size(2560x1440) Pos(0, 0)
+1/7 18:26:57.471  	Monitor 1 "Generic PnP Monitor" Size(2560x1440) Pos(-2560, 0)
+1/7 18:26:57.471  AMD driver version: 21.40.11.03-211201a-374383E-RadeonSoftware (AGS 21.12.1)
+1/7 18:26:57.486  Choosing gpu by name: "AMD Radeon RX 6800 XT"
+1/7 18:26:57.486  D3d12 Device Create
+1/7 18:26:57.486  DXGI_FEATURE_PRESENT_ALLOW_TEARING:true
+1/7 18:26:57.554  DXGI_FORMAT_B8G8R8A8_UNORM UAV support: true
+1/7 18:26:57.554  Ray Tracing Support: DXR 1.1
+1/7 18:26:57.554  Variable Rate Shading Supported: true
+1/7 18:26:59.866  NotifyOnDeviceCreate
+1/7 18:26:59.866  D3d12 Device Create Successful
+1/7 18:26:59.866  <IsGPUDriverOutOfDate> No
+1/7 18:26:59.866  Detected Graphics Defaults: 7 (CPU = 7, GPU = 7, MEM = 7) WindowSize: 2560x1440
+1/7 18:26:59.946  Render Settings Changed. New Render Size: 2560x1440
+1/7 18:27:54.766  Render Settings Changed
+1/7 19:31:43.903  D3d12 Device Destroy
+1/7 19:31:43.903  NotifyOnDeviceDestroy
+1/7 19:31:44.349  GxShutdown
