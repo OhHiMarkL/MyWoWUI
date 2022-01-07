@@ -1,0 +1,12 @@
+VER 3 0100000000000002 "Big Stik" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Spear of Bastion
+END
+VER 3 0100000000000001 "Leap" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Heroic Leap
+END
+VER 3 0100000000000003 "Rerere" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Ravager
+END

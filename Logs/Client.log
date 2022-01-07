@@ -1,0 +1,65 @@
+1/7 17:41:25.788  Client Initialize.
+1/7 17:41:30.494  Initial Hotfixes: Requested
+1/7 17:41:30.658  Initial Hotfixes: Received
+1/7 17:41:30.679  Initial Hotfixes: Applied
+1/7 17:44:12.490  Loading Screen Enable (1) : 1676 - 1
+1/7 17:44:13.119  Client Object Manager Initialized: 1676
+1/7 17:44:13.263  Succesfully Registered Nameplate
+1/7 17:44:13.859  Client : Load Map Begin : 1676
+1/7 17:44:14.576  Loading Screen : Loading : Files Read 3631 : Bytes Read 1053269420 : Elapsed MS 2086 : MBytes Per Sec 481.532
+1/7 17:44:14.576  Loading Screen : XML Loaded 100%
+1/7 17:44:14.576  Loading Screen : World Loaded 69%
+1/7 17:44:14.585  Client : Load Map End
+1/7 17:44:14.585  Start waiting for active player
+1/7 17:44:14.585  Character Login SEND
+1/7 17:44:16.633  Stop waiting for active player
+1/7 17:44:16.643  Loading Screen : Loading : Files Read 317 : Bytes Read 5402346 : Elapsed MS 2067 : MBytes Per Sec 2.493
+1/7 17:44:16.643  Loading Screen : XML Loaded 100%
+1/7 17:44:16.643  Loading Screen : World Loaded 100%
+1/7 17:44:16.643  Loading Screen : Spell Loaded 0%
+1/7 17:44:16.884  Active Player Created
+1/7 17:44:16.884  World Update : Triggering Teleport Loading Screen
+1/7 17:44:16.884  Loading Screen Enable (2) : 1676 - 1
+1/7 17:44:17.986  Loading Screen Disable (1)
+1/7 17:44:17.986  Loading Screen Disable (0)
+1/7 17:44:17.986  Loading Screen : Streaming 0
+1/7 17:44:17.986  Loading Screen : XML Loaded 100%
+1/7 17:44:17.986  Loading Screen : World Loaded 100%
+1/7 17:44:17.986  Loading Screen : Spell Loaded 100%
+1/7 17:44:17.986  Spellbook : Make Models Local Begin : 136
+1/7 17:44:17.986  Spellbook : Make Models Local End
+1/7 17:44:42.968  World Update : Triggering Teleport Loading Screen
+1/7 17:44:42.968  Loading Screen Enable (1) : 1676 - 1
+1/7 17:44:44.625  Loading Screen Disable (0)
+1/7 17:44:44.625  Loading Screen : Streaming 0
+1/7 17:44:44.625  Loading Screen : World Loaded 100%
+1/7 17:44:44.625  Spellbook : Make Models Local Begin : 136
+1/7 17:44:44.625  Spellbook : Make Models Local End
+1/7 17:44:49.797  World Update : Triggering Teleport Loading Screen
+1/7 17:44:49.797  Loading Screen Enable (1) : 1676 - 1
+1/7 17:44:49.941  Loading Screen Disable (0)
+1/7 17:44:49.941  Loading Screen : Streaming 0
+1/7 17:44:49.941  Loading Screen : World Loaded 100%
+1/7 17:44:49.941  Spellbook : Make Models Local Begin : 136
+1/7 17:44:49.941  Spellbook : Make Models Local End
+1/7 17:44:49.954  Movement : World Preload may be needed
+1/7 17:44:49.954  World Update : Triggering Teleport Loading Screen
+1/7 17:44:49.954  Loading Screen Enable (1) : 1676 - 1
+1/7 17:44:50.328  Loading Screen Disable (0)
+1/7 17:44:50.328  Loading Screen : Streaming 0
+1/7 17:44:50.328  Loading Screen : World Loaded 100%
+1/7 17:44:50.328  Spellbook : Make Models Local Begin : 136
+1/7 17:44:50.328  Spellbook : Make Models Local End
+1/7 17:54:02.115  Movement : World Preload may be needed
+1/7 17:54:02.115  World Update : Triggering Teleport Loading Screen
+1/7 17:54:02.115  Loading Screen Enable (1) : 1676 - 1
+1/7 17:54:02.256  Loading Screen Disable (0)
+1/7 17:54:02.256  Loading Screen : Streaming 0
+1/7 17:54:02.256  Loading Screen : World Loaded 100%
+1/7 17:54:02.256  Spellbook : Make Models Local Begin : 136
+1/7 17:54:02.256  Spellbook : Make Models Local End
+1/7 17:54:10.923  Client Object Manager Destroyed
+1/7 17:54:10.923  Nameplate Shutting Down
+1/7 17:54:11.011  Loading Screen Disable (-1)
+1/7 17:54:11.071  Loading Screen Disable (-1)
+1/7 17:54:11.071  Client Destroy

@@ -1,0 +1,22 @@
+VER 3 0100000000000001 "Rebirth" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,dead,help][] Rebirth
+END
+VER 3 0100000000000006 "SR" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Stampeding Roar
+/cast Moonkin Form
+END
+VER 3 0100000000000002 "Starfall" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Starfall
+END
+VER 3 0100000000000005 "UV" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Ursol's Vortex
+END
+VER 3 0100000000000003 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000004 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Pul[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

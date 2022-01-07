@@ -1,0 +1,57 @@
+VER 3 0100000000000010 "bop" "135941"
+/cancelaura Blessing of Protection
+END
+VER 3 0100000000000011 "ED" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Elysian Decree
+END
+VER 3 0100000000000007 "FearRune" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Sigil of Misery
+END
+VER 3 0100000000000008 "FireRune" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Sigil of Flame
+END
+VER 3 0100000000000004 "Jump/Break" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [pvptalent:6/1]Rain from Above; [pvptalent:6/3]Mana Break
+END
+VER 3 0100000000000003 "Meta" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Metamorphosis
+END
+VER 3 0100000000000005 "q" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:2/2] Chaos Strike; [] Demon's Bite
+END
+VER 3 010000000000000C "rffwfe" "INV_MISC_QUESTIONMARK"
+/tar Muck Slug
+END
+VER 3 0100000000000009 "rr" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Infernal Strike
+END
+VER 3 010000000000000D "Rush" "1344650"
+/i One person each to bs, lumber, mine and farm
+/i rest rush stables, well be out in two.
+/i i'll go lumber
+END
+VER 3 010000000000000E "SoC" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Sigil of Chains
+END
+VER 3 010000000000000A "SoS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Sigil of Silence
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1NM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Coo[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000006 "w" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:1/3]Felblade; [] Chaos Strike
+END

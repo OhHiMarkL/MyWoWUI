@@ -1,0 +1,12 @@
+VER 3 0100000000000002 "AMZ-Cursor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Anti-Magic Zone
+END
+VER 3 0100000000000001 "D&D" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Death and Decay; Death and Decay
+END
+VER 3 0100000000000003 "Summon Pet Moron" "INV_MISC_QUESTIONMARK"
+#showtooltip Festering Strike
+/cast [pet] Festering Strike; Raise Dead
+END
