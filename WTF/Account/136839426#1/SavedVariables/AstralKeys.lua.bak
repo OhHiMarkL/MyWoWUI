@@ -15,12 +15,12 @@ AstralKeys = {
 		["source"] = "guild",
 		["weekly_best"] = 13,
 		["class"] = "MONK",
-		["key_level"] = 13,
+		["key_level"] = 11,
 		["unit"] = "Smokyface-Kazzak",
-		["dungeon_id"] = 381,
+		["dungeon_id"] = 375,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 2,
+		["time_stamp"] = 9,
 	}, -- [2]
 	{
 		["source"] = "guild",
@@ -141,7 +141,7 @@ AstralKeys = {
 		["dungeon_id"] = 380,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 2,
+		["time_stamp"] = 214163,
 	}, -- [13]
 	{
 		["source"] = "guild",
@@ -191,12 +191,12 @@ AstralKeys = {
 		["source"] = "guild",
 		["weekly_best"] = 15,
 		["class"] = "WARRIOR",
-		["key_level"] = 5,
+		["key_level"] = 4,
 		["unit"] = "Nafarforri-Kazzak",
 		["dungeon_id"] = 380,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 2,
+		["time_stamp"] = 214166,
 	}, -- [18]
 	{
 		["source"] = "guild",
@@ -207,7 +207,7 @@ AstralKeys = {
 		["dungeon_id"] = 376,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 210919,
+		["time_stamp"] = 212279,
 	}, -- [19]
 	{
 		["source"] = "guild",
@@ -235,12 +235,12 @@ AstralKeys = {
 		["source"] = "guild",
 		["weekly_best"] = 15,
 		["class"] = "PALADIN",
-		["key_level"] = 15,
+		["key_level"] = 14,
 		["unit"] = "Têmpure-Kazzak",
-		["dungeon_id"] = 379,
+		["dungeon_id"] = 378,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 211266,
+		["time_stamp"] = 214094,
 	}, -- [22]
 	{
 		["source"] = "guild",
@@ -262,7 +262,7 @@ AstralKeys = {
 		["dungeon_id"] = 381,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 9,
+		["time_stamp"] = 213593,
 	}, -- [24]
 	{
 		["source"] = "guild",
@@ -284,7 +284,7 @@ AstralKeys = {
 		["dungeon_id"] = 375,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 210792,
+		["time_stamp"] = 213812,
 	}, -- [26]
 	{
 		["source"] = "guild",
@@ -343,14 +343,14 @@ AstralKeys = {
 	}, -- [31]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 0,
+		["weekly_best"] = 17,
 		["class"] = "DEATHKNIGHT",
 		["key_level"] = 17,
 		["unit"] = "Ivgangria-Kazzak",
 		["dungeon_id"] = 382,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 4,
+		["time_stamp"] = 213504,
 	}, -- [32]
 	{
 		["source"] = "guild",
@@ -390,8 +390,8 @@ AstralCharacters = {
 	{
 		["weekly_best"] = 0,
 		["class"] = "HUNTER",
-		["faction"] = 1,
 		["unit"] = "Couldhunter-Kazzak",
+		["faction"] = 1,
 	}, -- [1]
 }
 AstralKeysSettings = {
@@ -405,10 +405,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["no_key"] = false,
-			["party"] = true,
-			["guild"] = false,
 			["raid"] = false,
+			["party"] = true,
+			["no_key"] = false,
+			["guild"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -433,9 +433,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "GUILD",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -444,8 +442,11 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "GUILD",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 	},
+	["new_settings_config"] = true,
 	["friendOptions"] = {
 		["friend_sync"] = {
 			["isEnabled"] = true,
@@ -454,7 +455,6 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 	},
-	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
@@ -499,17 +499,17 @@ AstralLists = {
 			["Viciousgirl-Kazzak"] = true,
 			["Æonix-Kazzak"] = true,
 			["Cimb-Kazzak"] = true,
-			["Joppis-Kazzak"] = true,
+			["Cosinusoidal-Kazzak"] = true,
 			["Felicìa-Kazzak"] = true,
 			["Doykata-Kazzak"] = true,
 			["Åcåndruid-Kazzak"] = true,
-			["Wirthey-Kazzak"] = true,
+			["Jnrott-Kazzak"] = true,
 			["Ctrln-Kazzak"] = true,
 			["Têmpure-Kazzak"] = true,
 			["Kabzøn-Kazzak"] = true,
-			["Jnrott-Kazzak"] = true,
+			["Wirthey-Kazzak"] = true,
 			["Ivgangria-Kazzak"] = true,
-			["Cosinusoidal-Kazzak"] = true,
+			["Joppis-Kazzak"] = true,
 		},
 	}, -- [1]
 	{

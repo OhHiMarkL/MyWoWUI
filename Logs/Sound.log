@@ -1,71 +1,71 @@
-1/7 18:27:00.278   - SE3 Init...
-1/7 18:27:00.278  => SI3 Init
-1/7 18:27:00.278  => WoW Version 9.1.5 (41488) Dec 14 2021
-1/7 18:27:00.278   
-1/7 18:27:00.278  => User Settings Report:
-1/7 18:27:00.278   - ========= PLAYBACK =========
-1/7 18:27:00.278   - Enable All Sound         [1]
-1/7 18:27:00.278   - Enable SFX               [0]
-1/7 18:27:00.278   --- Enable Emote Sounds    [1]
-1/7 18:27:00.278   - Enable Music             [0]
-1/7 18:27:00.278   --- Loop Music             [0]
-1/7 18:27:00.278   --- Pet Battle Music       [1]
-1/7 18:27:00.278   - Enable Ambient Sounds    [0]
-1/7 18:27:00.278   - Enable Dialog            [0]
-1/7 18:27:00.278   --- Enable Error Speech    [1]
-1/7 18:27:00.278   - Sound at Character       [1]
-1/7 18:27:00.278   - Sound in Background      [0]
-1/7 18:27:00.278   - Enable Reverb            [1]
-1/7 18:27:00.278   -
-1/7 18:27:00.278   - ========== VOLUME ==========
-1/7 18:27:00.278   - Master Volume         [1.00]
-1/7 18:27:00.278   - SFX Volume            [1.00]
-1/7 18:27:00.278   - Music Volume          [0.40]
-1/7 18:27:00.278   - Ambience Volume       [0.60]
-1/7 18:27:00.278   - Dialog Volume         [1.00]
-1/7 18:27:00.278   -
-1/7 18:27:00.278   - =========== MISC ===========
-1/7 18:27:00.278   - Sound Channels          [64]
-1/7 18:27:00.278   - Sound Cache           [128MB]
-1/7 18:27:00.278   - Mix Mode 2               [0]
-1/7 18:27:00.278   - DSP Buffer Size       [AUTO]
-1/7 18:27:00.278   - Armor Foley SFX (Self)   [1]
-1/7 18:27:00.278   - Armor Foley SFX (Others) [1]
-1/7 18:27:00.278  => End of User Settings Report
-1/7 18:27:00.278   
-1/7 18:27:00.278   - FMOD Memory Init
-1/7 18:27:00.278   - FMOD System Create
-1/7 18:27:00.278   - Setting Output Type
-1/7 18:27:00.302   - 6 Output drivers detected
-1/7 18:27:00.302   --- [0] System Default
-1/7 18:27:00.302   --- [1] Realtek HD Audio 2nd output (Realtek(R) Audio)
-1/7 18:27:00.302   --- [2] Speakers (HyperX Quadcast)
-1/7 18:27:00.302   --- [3] Realtek Digital Output (Realtek(R) Audio)
-1/7 18:27:00.302   --- [4] 3 - VG27B (AMD High Definition Audio Device)
-1/7 18:27:00.302   --- [5] 1 - VG27B (AMD High Definition Audio Device)
-1/7 18:27:00.302  ** Using Driver [0] System Default (Realtek HD Audio 2nd output (Realtek(R) Audio))
-1/7 18:27:00.302   - DSPBufferSize = AUTO DETECT
-1/7 18:27:00.306   - Setting DSP Buffer Size
-1/7 18:27:00.306   - Using Control Panel Speaker Mode 7.1
-1/7 18:27:00.306   - Setting Software Format (44100, 2, 1).
-1/7 18:27:00.306   - Requested 64 channels.
-1/7 18:27:00.306   - Initializing Software Channels
-1/7 18:27:00.306   - FMOD advanced settings
-1/7 18:27:00.306   - Init FMOD Game System
-1/7 18:27:00.306   - Ok
-1/7 18:27:00.306   - Setting Rolloff Scale
-1/7 18:27:00.306   - Setting Rolloff Callback
-1/7 18:27:00.306   - SE3 EmitterManagerInit Success
-1/7 18:27:00.306   - Setting device callback
-1/7 18:27:00.306   - Sound Bus Init
-1/7 18:27:00.306   - Init Suppressors
-1/7 18:27:00.306   - SE3 Init Success.
-1/7 18:27:00.325  => SI3 Init Complete.
-1/7 18:27:00.325   
-1/7 19:31:43.843   
-1/7 19:31:43.843  => Shutting Down SI3
-1/7 19:31:43.869  => Shutting Down SI3 COMPLETE.
-1/7 19:31:43.869   
-1/7 19:31:43.869   - Shutting Down SE3
-1/7 19:31:43.869   - SE3 EmitterManagerShutdown Success
-1/7 19:31:43.869   - Shutting Down SE3 COMPLETE.
+1/7 19:34:27.704   - SE3 Init...
+1/7 19:34:27.704  => SI3 Init
+1/7 19:34:27.704  => WoW Version 9.1.5 (41488) Dec 14 2021
+1/7 19:34:27.704   
+1/7 19:34:27.704  => User Settings Report:
+1/7 19:34:27.704   - ========= PLAYBACK =========
+1/7 19:34:27.704   - Enable All Sound         [1]
+1/7 19:34:27.704   - Enable SFX               [0]
+1/7 19:34:27.704   --- Enable Emote Sounds    [1]
+1/7 19:34:27.704   - Enable Music             [0]
+1/7 19:34:27.704   --- Loop Music             [0]
+1/7 19:34:27.704   --- Pet Battle Music       [1]
+1/7 19:34:27.704   - Enable Ambient Sounds    [0]
+1/7 19:34:27.704   - Enable Dialog            [0]
+1/7 19:34:27.704   --- Enable Error Speech    [1]
+1/7 19:34:27.704   - Sound at Character       [1]
+1/7 19:34:27.704   - Sound in Background      [0]
+1/7 19:34:27.704   - Enable Reverb            [1]
+1/7 19:34:27.704   -
+1/7 19:34:27.704   - ========== VOLUME ==========
+1/7 19:34:27.704   - Master Volume         [1.00]
+1/7 19:34:27.704   - SFX Volume            [1.00]
+1/7 19:34:27.704   - Music Volume          [0.40]
+1/7 19:34:27.704   - Ambience Volume       [0.60]
+1/7 19:34:27.704   - Dialog Volume         [1.00]
+1/7 19:34:27.704   -
+1/7 19:34:27.704   - =========== MISC ===========
+1/7 19:34:27.704   - Sound Channels          [64]
+1/7 19:34:27.704   - Sound Cache           [128MB]
+1/7 19:34:27.704   - Mix Mode 2               [0]
+1/7 19:34:27.704   - DSP Buffer Size       [AUTO]
+1/7 19:34:27.704   - Armor Foley SFX (Self)   [1]
+1/7 19:34:27.704   - Armor Foley SFX (Others) [1]
+1/7 19:34:27.704  => End of User Settings Report
+1/7 19:34:27.704   
+1/7 19:34:27.704   - FMOD Memory Init
+1/7 19:34:27.704   - FMOD System Create
+1/7 19:34:27.710   - Setting Output Type
+1/7 19:34:27.725   - 6 Output drivers detected
+1/7 19:34:27.725   --- [0] System Default
+1/7 19:34:27.725   --- [1] Realtek HD Audio 2nd output (Realtek(R) Audio)
+1/7 19:34:27.725   --- [2] Speakers (HyperX Quadcast)
+1/7 19:34:27.725   --- [3] Realtek Digital Output (Realtek(R) Audio)
+1/7 19:34:27.725   --- [4] 3 - VG27B (AMD High Definition Audio Device)
+1/7 19:34:27.725   --- [5] 1 - VG27B (AMD High Definition Audio Device)
+1/7 19:34:27.725  ** Using Driver [0] System Default (Realtek HD Audio 2nd output (Realtek(R) Audio))
+1/7 19:34:27.725   - DSPBufferSize = AUTO DETECT
+1/7 19:34:27.725   - Setting DSP Buffer Size
+1/7 19:34:27.725   - Using Control Panel Speaker Mode 7.1
+1/7 19:34:27.725   - Setting Software Format (44100, 2, 1).
+1/7 19:34:27.725   - Requested 64 channels.
+1/7 19:34:27.725   - Initializing Software Channels
+1/7 19:34:27.725   - FMOD advanced settings
+1/7 19:34:27.745   - Init FMOD Game System
+1/7 19:34:27.745   - Ok
+1/7 19:34:27.745   - Setting Rolloff Scale
+1/7 19:34:27.745   - Setting Rolloff Callback
+1/7 19:34:27.745   - SE3 EmitterManagerInit Success
+1/7 19:34:27.745   - Setting device callback
+1/7 19:34:27.745   - Sound Bus Init
+1/7 19:34:27.745   - Init Suppressors
+1/7 19:34:27.745   - SE3 Init Success.
+1/7 19:34:27.745  => SI3 Init Complete.
+1/7 19:34:27.745   
+1/7 21:40:08.985   
+1/7 21:40:08.985  => Shutting Down SI3
+1/7 21:40:09.009  => Shutting Down SI3 COMPLETE.
+1/7 21:40:09.009   
+1/7 21:40:09.009   - Shutting Down SE3
+1/7 21:40:09.031   - SE3 EmitterManagerShutdown Success
+1/7 21:40:09.031   - Shutting Down SE3 COMPLETE.

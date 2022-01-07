@@ -5,6 +5,9 @@ SimulationCraftDB = {
 	},
 	["profiles"] = {
 		["Couldhunter - Kazzak"] = {
+			["minimap"] = {
+				["minimapPos"] = 349.4670824743104,
+			},
 		},
 	},
 }

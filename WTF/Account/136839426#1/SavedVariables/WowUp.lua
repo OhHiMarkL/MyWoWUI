@@ -7,4 +7,5 @@ WowUpAddonInformation = {
 	["showPopupNotificationList"] = true,
 }
 WowUpAddonInformationLDBIconDB = {
+	["minimapPos"] = 350.7664568782147,
 }

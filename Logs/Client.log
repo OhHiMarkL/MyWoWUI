@@ -1,149 +1,495 @@
-1/7 18:27:00.278  Client Initialize.
-1/7 18:27:05.600  Initial Hotfixes: Requested
-1/7 18:27:05.835  Initial Hotfixes: Received
-1/7 18:27:05.922  Initial Hotfixes: Applied
-1/7 18:27:18.654  LoadingScreenGetLoadingScreenFileID file didn't exist in CAS loadingScreensID: 576 textureFileID: 0
-1/7 18:27:44.630  Loading Screen Enable (1) : 1676 - 1
-1/7 18:27:45.376  Client Object Manager Initialized: 1676
-1/7 18:27:45.559  Succesfully Registered Nameplate
-1/7 18:27:46.677  Loading Screen : Loading : Files Read 2538 : Bytes Read 871905268 : Elapsed MS 2048 : MBytes Per Sec 406.013
-1/7 18:27:46.677  Loading Screen : XML Loaded 65%
-1/7 18:27:48.948  Loading Screen : Loading : Files Read 25 : Bytes Read 4187846 : Elapsed MS 2271 : MBytes Per Sec 1.759
-1/7 18:27:48.948  Loading Screen : XML Loaded 80%
-1/7 18:27:50.997  Loading Screen : Loading : Files Read 10 : Bytes Read 759296 : Elapsed MS 2049 : MBytes Per Sec 0.353
-1/7 18:27:50.997  Loading Screen : XML Loaded 91%
-1/7 18:27:53.102  Loading Screen : Loading : Files Read 1 : Bytes Read 25991 : Elapsed MS 2105 : MBytes Per Sec 0.012
-1/7 18:27:53.102  Loading Screen : XML Loaded 95%
-1/7 18:27:54.766  Client : Load Map Begin : 1676
-1/7 18:27:55.184  Loading Screen : Loading : Files Read 556 : Bytes Read 87301738 : Elapsed MS 2082 : MBytes Per Sec 39.989
-1/7 18:27:55.184  Loading Screen : XML Loaded 100%
-1/7 18:27:55.184  Loading Screen : World Loaded 21%
-1/7 18:27:56.148  Client : Load Map End
-1/7 18:27:56.148  Start waiting for active player
-1/7 18:27:56.148  Character Login SEND
-1/7 18:28:05.263  Stop waiting for active player
-1/7 18:28:05.274  Loading Screen : Loading : Files Read 1272 : Bytes Read 159671394 : Elapsed MS 10090 : MBytes Per Sec 15.092
-1/7 18:28:05.274  Loading Screen : XML Loaded 100%
-1/7 18:28:05.274  Loading Screen : World Loaded 100%
-1/7 18:28:05.274  Loading Screen : Spell Loaded 0%
-1/7 18:28:07.871  Active Player Created
-1/7 18:28:07.871  World Update : Triggering Teleport Loading Screen
-1/7 18:28:07.871  Loading Screen Enable (2) : 1676 - 1
-1/7 18:28:07.871  Loading Screen : Loading : Files Read 1249 : Bytes Read 6684857 : Elapsed MS 2599 : MBytes Per Sec 2.453
-1/7 18:28:07.871  Loading Screen : XML Loaded 100%
-1/7 18:28:07.871  Loading Screen : World Loaded 100%
-1/7 18:28:07.871  Loading Screen : Spell Loaded 100%
-1/7 18:28:09.578  Loading Screen Disable (1)
-1/7 18:28:09.578  Loading Screen Disable (0)
-1/7 18:28:09.578  Loading Screen : Streaming 0
-1/7 18:28:09.578  Loading Screen : XML Loaded 100%
-1/7 18:28:09.578  Loading Screen : World Loaded 100%
-1/7 18:28:09.578  Loading Screen : Spell Loaded 100%
-1/7 18:28:09.578  Spellbook : Make Models Local Begin : 136
-1/7 18:28:09.578  Spellbook : Make Models Local End
-1/7 18:30:32.675  Loading Screen Enable (1) : 1676 - 0
-1/7 18:30:32.683  Nameplate Shutting Down
-1/7 18:30:32.906  Succesfully Registered Nameplate
-1/7 18:30:34.747  Loading Screen : Loading : Files Read 896 : Bytes Read 118538489 : Elapsed MS 2073 : MBytes Per Sec 54.533
-1/7 18:30:34.747  Loading Screen : XML Loaded 93%
-1/7 18:30:38.460  Loading Screen Disable (0)
-1/7 18:30:38.460  Loading Screen : Streaming 0
-1/7 18:30:38.460  Loading Screen : XML Loaded 100%
-1/7 18:30:38.460  Spellbook : Make Models Local Begin : 136
-1/7 18:30:38.460  Spellbook : Make Models Local End
-1/7 18:33:02.816  Loading Screen Enable (1) : 2222 - 1
-1/7 18:33:04.612  Client Object Manager Destroyed
-1/7 18:33:04.612  Client Object Manager Initialized: 2222
-1/7 18:33:04.612  Client : Load Map Begin : 2222
-1/7 18:33:04.816  Loading Screen : Loading : Files Read 734 : Bytes Read 117032831 : Elapsed MS 2001 : MBytes Per Sec 55.778
-1/7 18:33:04.816  Loading Screen : World Loaded 4%
-1/7 18:33:06.836  Loading Screen : Loading : Files Read 4811 : Bytes Read 514670494 : Elapsed MS 2020 : MBytes Per Sec 242.984
-1/7 18:33:06.836  Loading Screen : World Loaded 51%
-1/7 18:33:08.856  Loading Screen : Loading : Files Read 2620 : Bytes Read 392935154 : Elapsed MS 2020 : MBytes Per Sec 185.511
-1/7 18:33:08.856  Loading Screen : World Loaded 61%
-1/7 18:33:10.024  Client : Load Map End
-1/7 18:33:10.024  Start waiting for active player
-1/7 18:33:10.024  New World Handler : Send World Port Response
-1/7 18:33:10.024  Waiting for active player: 2 ms
-1/7 18:33:10.905  Stop waiting for active player
-1/7 18:33:10.931  Loading Screen : Loading : Files Read 1693 : Bytes Read 421037352 : Elapsed MS 2075 : MBytes Per Sec 193.510
-1/7 18:33:10.931  Loading Screen : World Loaded 100%
-1/7 18:33:11.149  Active Player Created
-1/7 18:33:11.149  Loading Screen Disable (0)
-1/7 18:33:11.149  Loading Screen : Streaming 0
-1/7 18:33:11.149  Loading Screen : World Loaded 100%
-1/7 18:33:11.149  Spellbook : Make Models Local Begin : 136
-1/7 18:33:11.149  Spellbook : Make Models Local End
-1/7 18:38:26.561  Loading Screen Enable (1) : 2222 - 0
-1/7 18:38:26.570  Nameplate Shutting Down
-1/7 18:38:26.797  Succesfully Registered Nameplate
-1/7 18:38:28.643  Loading Screen : Loading : Files Read 18224 : Bytes Read 2162202545 : Elapsed MS 2082 : MBytes Per Sec 990.412
-1/7 18:38:28.643  Loading Screen : XML Loaded 93%
-1/7 18:38:32.428  Loading Screen Disable (0)
-1/7 18:38:32.428  Loading Screen : Streaming 0
-1/7 18:38:32.428  Loading Screen : XML Loaded 100%
-1/7 18:38:32.428  Spellbook : Make Models Local Begin : 136
-1/7 18:38:32.428  Spellbook : Make Models Local End
-1/7 18:40:56.183  Loading Screen Enable (1) : 2222 - 0
-1/7 18:40:56.183  Nameplate Shutting Down
-1/7 18:40:56.407  Succesfully Registered Nameplate
-1/7 18:40:58.236  Loading Screen : Loading : Files Read 10249 : Bytes Read 1202577240 : Elapsed MS 2052 : MBytes Per Sec 558.902
-1/7 18:40:58.236  Loading Screen : XML Loaded 93%
-1/7 18:41:01.621  Loading Screen Disable (0)
-1/7 18:41:01.621  Loading Screen : Streaming 0
-1/7 18:41:01.621  Loading Screen : XML Loaded 100%
-1/7 18:41:01.621  Spellbook : Make Models Local Begin : 136
-1/7 18:41:01.621  Spellbook : Make Models Local End
-1/7 18:41:37.922  Account notifications: 0
-1/7 18:43:18.701  Loading Screen Enable (1) : 2222 - 0
-1/7 18:43:18.701  Nameplate Shutting Down
-1/7 18:43:18.933  Succesfully Registered Nameplate
-1/7 18:43:20.766  Loading Screen : Loading : Files Read 10459 : Bytes Read 1252104051 : Elapsed MS 2066 : MBytes Per Sec 577.977
-1/7 18:43:20.766  Loading Screen : XML Loaded 93%
-1/7 18:43:24.204  Loading Screen Disable (0)
-1/7 18:43:24.204  Loading Screen : Streaming 0
-1/7 18:43:24.204  Loading Screen : XML Loaded 100%
-1/7 18:43:24.204  Spellbook : Make Models Local Begin : 136
-1/7 18:43:24.204  Spellbook : Make Models Local End
-1/7 18:43:42.510  Loading Screen Enable (1) : 2222 - 0
-1/7 18:43:42.510  Nameplate Shutting Down
-1/7 18:43:42.745  Succesfully Registered Nameplate
-1/7 18:43:44.580  Loading Screen : Loading : Files Read 2091 : Bytes Read 237260410 : Elapsed MS 2071 : MBytes Per Sec 109.256
-1/7 18:43:44.580  Loading Screen : XML Loaded 93%
-1/7 18:43:48.014  Loading Screen Disable (0)
-1/7 18:43:48.014  Loading Screen : Streaming 0
-1/7 18:43:48.014  Loading Screen : XML Loaded 100%
-1/7 18:43:48.014  Spellbook : Make Models Local Begin : 136
-1/7 18:43:48.014  Spellbook : Make Models Local End
-1/7 18:54:22.962  Account notifications: 0
-1/7 19:07:57.424  Account notifications: 0
-1/7 19:15:19.155  Loading Screen Enable (1) : 1220 - 1
-1/7 19:15:23.417  Client Object Manager Destroyed
-1/7 19:15:23.417  Client Object Manager Initialized: 1220
-1/7 19:15:23.417  Client : Load Map Begin : 1220
-1/7 19:15:23.417  Loading Screen : Loading : Files Read 133849 : Bytes Read 2760566571 : Elapsed MS 4267 : MBytes Per Sec 3496.761
-1/7 19:15:25.441  Loading Screen : Loading : Files Read 1440 : Bytes Read 314212706 : Elapsed MS 2020 : MBytes Per Sec 148.345
-1/7 19:15:25.441  Loading Screen : World Loaded 28%
-1/7 19:15:27.462  Loading Screen : Loading : Files Read 3339 : Bytes Read 318628391 : Elapsed MS 2021 : MBytes Per Sec 150.355
-1/7 19:15:27.462  Loading Screen : World Loaded 61%
-1/7 19:15:29.489  Loading Screen : Loading : Files Read 3784 : Bytes Read 328062800 : Elapsed MS 2026 : MBytes Per Sec 154.425
-1/7 19:15:29.489  Loading Screen : World Loaded 61%
-1/7 19:15:30.554  Client : Load Map End
-1/7 19:15:30.554  Start waiting for active player
-1/7 19:15:30.554  New World Handler : Send World Port Response
-1/7 19:15:30.554  Waiting for active player: 10 ms
-1/7 19:15:34.049  Stop waiting for active player
-1/7 19:15:34.075  Loading Screen : Loading : Files Read 4893 : Bytes Read 452813462 : Elapsed MS 4587 : MBytes Per Sec 94.144
-1/7 19:15:34.075  Loading Screen : World Loaded 100%
-1/7 19:15:34.298  Active Player Created
-1/7 19:15:34.298  Loading Screen Disable (0)
-1/7 19:15:34.298  Loading Screen : Streaming 0
-1/7 19:15:34.298  Loading Screen : World Loaded 100%
-1/7 19:15:34.298  Spellbook : Make Models Local Begin : 136
-1/7 19:15:34.298  Spellbook : Make Models Local End
-1/7 19:20:49.064  Account notifications: 0
-1/7 19:31:37.803  Client Object Manager Destroyed
-1/7 19:31:37.822  Nameplate Shutting Down
-1/7 19:31:38.041  Loading Screen Disable (-1)
-1/7 19:31:43.883  Loading Screen Disable (-1)
-1/7 19:31:43.883  Client Destroy
+1/7 19:34:27.704  Client Initialize.
+1/7 19:34:33.283  Initial Hotfixes: Requested
+1/7 19:34:33.772  Initial Hotfixes: Received
+1/7 19:34:33.797  Initial Hotfixes: Applied
+1/7 19:34:35.893  Loading Screen Enable (1) : 1220 - 1
+1/7 19:34:36.522  Client Object Manager Initialized: 1220
+1/7 19:34:36.701  Succesfully Registered Nameplate
+1/7 19:34:37.937  Loading Screen : Loading : Files Read 2202 : Bytes Read 833040746 : Elapsed MS 2045 : MBytes Per Sec 388.484
+1/7 19:34:37.937  Loading Screen : XML Loaded 92%
+1/7 19:34:39.939  Loading Screen : Loading : Files Read 1 : Bytes Read 25991 : Elapsed MS 2002 : MBytes Per Sec 0.012
+1/7 19:34:39.939  Loading Screen : XML Loaded 96%
+1/7 19:34:40.096  Client : Load Map Begin : 1220
+1/7 19:34:41.949  Loading Screen : Loading : Files Read 2089 : Bytes Read 414060157 : Elapsed MS 2010 : MBytes Per Sec 196.457
+1/7 19:34:41.949  Loading Screen : XML Loaded 100%
+1/7 19:34:41.949  Loading Screen : World Loaded 36%
+1/7 19:34:44.044  Loading Screen : Loading : Files Read 8556 : Bytes Read 551277261 : Elapsed MS 2095 : MBytes Per Sec 250.949
+1/7 19:34:44.044  Loading Screen : XML Loaded 100%
+1/7 19:34:44.044  Loading Screen : World Loaded 69%
+1/7 19:34:45.741  Client : Load Map End
+1/7 19:34:45.741  Start waiting for active player
+1/7 19:34:45.741  Character Login SEND
+1/7 19:34:53.843  Stop waiting for active player
+1/7 19:34:53.857  Loading Screen : Loading : Files Read 3618 : Bytes Read 464196570 : Elapsed MS 9813 : MBytes Per Sec 45.113
+1/7 19:34:53.857  Loading Screen : XML Loaded 100%
+1/7 19:34:53.857  Loading Screen : World Loaded 100%
+1/7 19:34:53.857  Loading Screen : Spell Loaded 0%
+1/7 19:34:59.837  Active Player Created
+1/7 19:34:59.837  Loading Screen Disable (0)
+1/7 19:34:59.837  Loading Screen : Loading : Files Read 1402 : Bytes Read 64604061 : Elapsed MS 5979 : MBytes Per Sec 10.305
+1/7 19:34:59.837  Loading Screen : XML Loaded 100%
+1/7 19:34:59.837  Loading Screen : World Loaded 100%
+1/7 19:34:59.837  Loading Screen : Spell Loaded 100%
+1/7 19:34:59.837  Spellbook : Make Models Local Begin : 136
+1/7 19:34:59.837  Spellbook : Make Models Local End
+1/7 19:46:03.814  Account notifications: 0
+1/7 19:59:02.175  Account notifications: 0
+1/7 20:13:37.205  Account notifications: 0
+1/7 20:27:08.361  Account notifications: 0
+1/7 20:38:42.134  Account notifications: 0
+1/7 20:52:14.026  Loading Screen Enable (1) : 1 - 1
+1/7 20:52:16.298  Client Object Manager Destroyed
+1/7 20:52:16.306  Client Object Manager Initialized: 1
+1/7 20:52:16.306  Client : Load Map Begin : 1
+1/7 20:52:16.306  Loading Screen : Loading : Files Read 154226 : Bytes Read 1324512531 : Elapsed MS 2282 : MBytes Per Sec 1842.279
+1/7 20:52:18.361  Loading Screen : Loading : Files Read 2176 : Bytes Read 299626946 : Elapsed MS 2055 : MBytes Per Sec 139.049
+1/7 20:52:18.361  Loading Screen : World Loaded 56%
+1/7 20:52:20.384  Loading Screen : Loading : Files Read 5655 : Bytes Read 264797546 : Elapsed MS 2023 : MBytes Per Sec 124.830
+1/7 20:52:20.384  Loading Screen : World Loaded 69%
+1/7 20:52:20.407  Client : Load Map End
+1/7 20:52:20.407  Start waiting for active player
+1/7 20:52:20.407  New World Handler : Send World Port Response
+1/7 20:52:20.423  Waiting for active player: 16 ms
+1/7 20:52:21.026  Account notifications: 0
+1/7 20:52:21.739  Stop waiting for active player
+1/7 20:52:21.932  Active Player Created
+1/7 20:52:21.932  Loading Screen Disable (0)
+1/7 20:52:21.932  Loading Screen : Loading : Files Read 1019 : Bytes Read 102859788 : Elapsed MS 1352 : MBytes Per Sec 72.555
+1/7 20:52:21.932  Loading Screen : World Loaded 100%
+1/7 20:52:21.932  Spellbook : Make Models Local Begin : 135
+1/7 20:52:21.932  Spellbook : Make Models Local End
+1/7 20:53:01.498  Loading Screen Enable (1) : 1116 - 1
+1/7 20:53:11.219  Client Object Manager Destroyed
+1/7 20:53:11.227  Client Object Manager Initialized: 1116
+1/7 20:53:11.227  Client : Load Map Begin : 1116
+1/7 20:53:11.227  Loading Screen : Loading : Files Read 2701 : Bytes Read 218350509 : Elapsed MS 9733 : MBytes Per Sec 21.395
+1/7 20:53:13.249  Loading Screen : Loading : Files Read 2858 : Bytes Read 392722785 : Elapsed MS 2021 : MBytes Per Sec 185.319
+1/7 20:53:13.249  Loading Screen : World Loaded 61%
+1/7 20:53:15.269  Loading Screen : Loading : Files Read 4230 : Bytes Read 345365706 : Elapsed MS 2020 : MBytes Per Sec 163.053
+1/7 20:53:15.269  Loading Screen : World Loaded 69%
+1/7 20:53:15.468  Client : Load Map End
+1/7 20:53:15.468  Start waiting for active player
+1/7 20:53:15.468  New World Handler : Send World Port Response
+1/7 20:53:15.483  Waiting for active player: 15 ms
+1/7 20:53:18.514  Stop waiting for active player
+1/7 20:53:18.532  Loading Screen : Loading : Files Read 1056 : Bytes Read 170003304 : Elapsed MS 3263 : MBytes Per Sec 49.687
+1/7 20:53:18.532  Loading Screen : World Loaded 100%
+1/7 20:53:18.711  Active Player Created
+1/7 20:53:18.711  Loading Screen Disable (0)
+1/7 20:53:18.711  Loading Screen : Streaming 0
+1/7 20:53:18.711  Loading Screen : World Loaded 100%
+1/7 20:53:18.711  Spellbook : Make Models Local Begin : 138
+1/7 20:53:18.711  Spellbook : Make Models Local End
+1/7 20:53:26.163  Loading Screen Enable Custom (1) : 1464
+1/7 20:53:26.163  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.180  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.180  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.180  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.198  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.198  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.198  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.215  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.215  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.229  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.229  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.229  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.245  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.245  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.257  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.257  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.257  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.276  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.276  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.276  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.294  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.294  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.306  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.306  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.306  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.323  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.323  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.335  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.335  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.335  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.354  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.354  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.354  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.371  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.371  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.383  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.383  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.383  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.402  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.402  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.413  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.413  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.413  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.434  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.434  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.444  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.444  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.444  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.462  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.462  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.462  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.480  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.480  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.493  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.493  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.493  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.515  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.515  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.523  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.523  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.523  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.541  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.541  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.541  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.559  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.559  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.571  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.571  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.571  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.589  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.589  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.602  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.602  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.602  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.619  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.619  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.631  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.631  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.631  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.649  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.649  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.649  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.667  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.667  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.680  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.680  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.680  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.697  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.697  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.697  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.715  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.715  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.727  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.727  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.727  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.746  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.746  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.758  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.758  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.758  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.776  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.776  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.788  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.788  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.788  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.806  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.806  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.806  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.824  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.824  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.836  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.836  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.836  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.854  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.854  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.866  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.866  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.866  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.884  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.884  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.884  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.902  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.902  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.914  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.914  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.914  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.932  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.932  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.945  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.945  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.945  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.962  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.962  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.962  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.980  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.980  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.992  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.992  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:26.992  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.011  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.011  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.022  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.022  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.022  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.041  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.041  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.041  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.059  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.059  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.071  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.071  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.086  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.086  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.086  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.101  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.101  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.101  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.119  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.119  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.119  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.137  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.137  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.149  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.149  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.149  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.167  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.167  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.179  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.179  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.179  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.197  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.197  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.210  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.210  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.210  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.227  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.227  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.227  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.245  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.245  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.258  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.258  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.258  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.275  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.275  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.288  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.288  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.288  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.305  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.305  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.305  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.324  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.324  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.336  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.336  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.336  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.354  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.354  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.366  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.366  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.366  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.384  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.384  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.384  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.403  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.403  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.414  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.414  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.414  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.432  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.432  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.432  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.450  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.450  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.462  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.462  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.462  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.481  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.481  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.492  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.509  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.509  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.509  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.523  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.523  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.523  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.540  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.540  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.540  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.559  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.559  Client Object Manager Destroyed
+1/7 20:53:27.574  Client Object Manager Initialized: 1464
+1/7 20:53:27.574  Client : Load Map Begin : 1464
+1/7 20:53:27.574  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.682  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.782  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.884  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:27.984  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:28.085  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:28.186  Loading Screen : Loading : Files Read 1583 : Bytes Read 252295679 : Elapsed MS 2025 : MBytes Per Sec 118.819
+1/7 20:53:28.186  Loading Screen : World Loaded 14%
+1/7 20:53:28.186  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:28.287  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:28.388  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:28.489  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:28.590  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:28.691  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:28.792  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:28.893  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:28.994  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:29.095  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:29.196  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:29.297  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:29.398  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:29.500  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:29.601  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:29.702  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:29.803  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:29.905  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:30.009  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:30.110  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:30.212  Loading Screen : Loading : Files Read 2377 : Bytes Read 451430440 : Elapsed MS 2026 : MBytes Per Sec 212.496
+1/7 20:53:30.212  Loading Screen : World Loaded 61%
+1/7 20:53:30.212  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:30.313  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:30.414  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:30.515  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:30.616  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:30.717  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:30.818  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:30.919  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:31.020  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:31.122  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:31.223  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:31.323  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:31.424  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:31.525  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:31.626  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:31.729  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:31.829  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:31.930  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.032  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.133  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.171  Client : Load Map End
+1/7 20:53:32.171  Start waiting for active player
+1/7 20:53:32.171  New World Handler : Send World Port Response
+1/7 20:53:32.182  Waiting for active player: 11 ms
+1/7 20:53:32.182  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.182  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.182  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.199  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.199  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.211  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.211  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.211  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.229  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.229  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.229  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.247  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.247  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.259  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.259  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.259  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.278  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.278  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.290  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.290  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.332  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.332  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.341  Stop waiting for active player
+1/7 20:53:32.357  Loading Screen : Loading : Files Read 3779 : Bytes Read 433876180 : Elapsed MS 2144 : MBytes Per Sec 192.993
+1/7 20:53:32.357  Loading Screen : World Loaded 100%
+1/7 20:53:32.357  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.357  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 20:53:32.507  Active Player Created
+1/7 20:53:32.507  Loading Screen Disable (0)
+1/7 20:53:32.507  Loading Screen : Streaming 0
+1/7 20:53:32.507  Loading Screen : World Loaded 100%
+1/7 20:53:32.507  Spellbook : Make Models Local Begin : 138
+1/7 20:53:32.507  Spellbook : Make Models Local End
+1/7 20:54:12.966  Loading Screen Enable (1) : 1448 - 1
+1/7 20:54:16.752  Client Object Manager Destroyed
+1/7 20:54:16.768  Client Object Manager Initialized: 1448
+1/7 20:54:16.768  Client : Load Map Begin : 1448
+1/7 20:54:16.768  Loading Screen : Loading : Files Read 2574 : Bytes Read 306065451 : Elapsed MS 3803 : MBytes Per Sec 76.752
+1/7 20:54:18.113  Client : Load Map End
+1/7 20:54:18.113  Start waiting for active player
+1/7 20:54:18.113  New World Handler : Send World Port Response
+1/7 20:54:18.140  Waiting for active player: 28 ms
+1/7 20:54:20.112  Stop waiting for active player
+1/7 20:54:20.133  Loading Screen : Loading : Files Read 1486 : Bytes Read 305584204 : Elapsed MS 3365 : MBytes Per Sec 86.606
+1/7 20:54:20.133  Loading Screen : World Loaded 100%
+1/7 20:54:20.358  Active Player Created
+1/7 20:54:20.358  Loading Screen Disable (0)
+1/7 20:54:20.358  Loading Screen : Streaming 0
+1/7 20:54:20.358  Loading Screen : World Loaded 100%
+1/7 20:54:20.358  Spellbook : Make Models Local Begin : 138
+1/7 20:54:20.358  Spellbook : Make Models Local End
+1/7 21:04:52.164  Account notifications: 0
+1/7 21:09:53.121  Movement : World Preload may be needed
+1/7 21:09:53.121  World Update : Triggering Teleport Loading Screen
+1/7 21:09:53.121  Loading Screen Enable Custom (1) : 1448
+1/7 21:09:53.121  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 21:09:53.226  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 21:09:53.327  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 21:09:53.428  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 21:09:53.529  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 21:09:53.630  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 21:09:53.731  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 21:09:53.832  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 21:09:53.933  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 21:09:54.034  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 21:09:54.135  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 21:09:54.236  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 21:09:54.337  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 21:09:54.353  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 21:09:54.353  PaintDynamicLoadingBar failed. Have Verts: 0, Have spline: 1
+1/7 21:09:54.353  Loading Screen Disable (0)
+1/7 21:09:54.353  Loading Screen : Streaming 0
+1/7 21:09:54.353  Loading Screen : World Loaded 100%
+1/7 21:09:54.353  Spellbook : Make Models Local Begin : 138
+1/7 21:09:54.353  Spellbook : Make Models Local End
+1/7 21:16:10.856  Account notifications: 0
+1/7 21:18:25.700  Movement : World Preload may be needed
+1/7 21:18:25.700  World Update : Triggering Teleport Loading Screen
+1/7 21:18:25.700  Loading Screen Enable (1) : 1448 - 1
+1/7 21:18:26.509  Loading Screen Disable (0)
+1/7 21:18:26.509  Loading Screen : Streaming 0
+1/7 21:18:26.509  Loading Screen : World Loaded 100%
+1/7 21:18:26.509  Spellbook : Make Models Local Begin : 138
+1/7 21:18:26.509  Spellbook : Make Models Local End
+1/7 21:18:35.309  Movement : World Preload may be needed
+1/7 21:18:35.309  World Update : Triggering Teleport Loading Screen
+1/7 21:18:35.309  Loading Screen Enable (1) : 1448 - 1
+1/7 21:18:36.053  Loading Screen Disable (0)
+1/7 21:18:36.053  Loading Screen : Streaming 0
+1/7 21:18:36.053  Loading Screen : World Loaded 100%
+1/7 21:18:36.053  Spellbook : Make Models Local Begin : 138
+1/7 21:18:36.053  Spellbook : Make Models Local End
+1/7 21:19:31.277  Movement : World Preload may be needed
+1/7 21:19:31.277  World Update : Triggering Teleport Loading Screen
+1/7 21:19:31.277  Loading Screen Enable (1) : 1448 - 1
+1/7 21:19:32.226  Loading Screen Disable (0)
+1/7 21:19:32.226  Loading Screen : Streaming 0
+1/7 21:19:32.226  Loading Screen : World Loaded 100%
+1/7 21:19:32.226  Spellbook : Make Models Local Begin : 138
+1/7 21:19:32.226  Spellbook : Make Models Local End
+1/7 21:20:30.897  Loading Screen Enable (1) : 1220 - 1
+1/7 21:20:31.933  Client Object Manager Destroyed
+1/7 21:20:31.933  Client Object Manager Initialized: 1220
+1/7 21:20:31.933  Client : Load Map Begin : 1220
+1/7 21:20:32.946  Loading Screen : Loading : Files Read 1645 : Bytes Read 298320204 : Elapsed MS 2049 : MBytes Per Sec 138.848
+1/7 21:20:32.946  Loading Screen : World Loaded 19%
+1/7 21:20:34.974  Loading Screen : Loading : Files Read 6064 : Bytes Read 539613181 : Elapsed MS 2028 : MBytes Per Sec 253.755
+1/7 21:20:34.974  Loading Screen : World Loaded 61%
+1/7 21:20:36.292  Client : Load Map End
+1/7 21:20:36.292  Start waiting for active player
+1/7 21:20:36.292  New World Handler : Send World Port Response
+1/7 21:20:36.292  Waiting for active player: 11 ms
+1/7 21:20:36.514  Stop waiting for active player
+1/7 21:20:36.750  Active Player Created
+1/7 21:20:36.750  Loading Screen Disable (0)
+1/7 21:20:36.750  Loading Screen : Loading : Files Read 5538 : Bytes Read 485220616 : Elapsed MS 1533 : MBytes Per Sec 301.854
+1/7 21:20:36.750  Loading Screen : World Loaded 100%
+1/7 21:20:36.750  Spellbook : Make Models Local Begin : 136
+1/7 21:20:36.750  Spellbook : Make Models Local End
+1/7 21:27:44.905  Account notifications: 0
+1/7 21:39:38.465  Client Object Manager Destroyed
+1/7 21:39:38.484  Nameplate Shutting Down
+1/7 21:39:38.725  Loading Screen Disable (-1)
+1/7 21:40:09.031  Loading Screen Disable (-1)
+1/7 21:40:09.031  Client Destroy

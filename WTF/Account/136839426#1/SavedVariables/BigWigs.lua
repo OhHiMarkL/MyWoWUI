@@ -62,24 +62,32 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
+					["BigWigsEmphasizeAnchor_y"] = 558.9332973798082,
 					["BigWigsAnchor_width"] = 242.0000305175781,
-					["growup"] = true,
+					["BigWigsAnchor_y"] = 383,
 					["fontName"] = "Expressway",
 					["BigWigsAnchor_height"] = 24.99991989135742,
-					["BigWigsAnchor_y"] = 383,
-					["spacing"] = 4,
-					["BigWigsEmphasizeAnchor_y"] = 558.9332973798082,
-					["texture"] = "ElvUI Blank",
-					["barStyle"] = "ElvUI",
-					["BigWigsAnchor_x"] = 446,
-					["BigWigsEmphasizeAnchor_x"] = 573.3334283391669,
 					["BigWigsEmphasizeAnchor_width"] = 319.9999389648438,
+					["BigWigsAnchor_x"] = 446,
+					["spacing"] = 4,
+					["BigWigsEmphasizeAnchor_x"] = 573.3334283391669,
+					["barStyle"] = "ElvUI",
+					["growup"] = true,
+					["texture"] = "ElvUI Blank",
 				},
 			},
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
-		["BigWigs_Plugins_Wipe"] = {
+		["BigWigs_Plugins_Proximity"] = {
+			["profiles"] = {
+				["Default"] = {
+					["posx"] = 1219.733136530704,
+					["posy"] = 262.3997695445887,
+					["height"] = 120.0000076293945,
+					["width"] = 139.9999847412109,
+				},
+			},
 		},
 		["BigWigs_Plugins_Statistics"] = {
 		},
@@ -110,15 +118,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Proximity"] = {
-			["profiles"] = {
-				["Default"] = {
-					["width"] = 139.9999847412109,
-					["posy"] = 262.3997695445887,
-					["posx"] = 1219.733136530704,
-					["height"] = 120.0000076293945,
-				},
-			},
+		["BigWigs_Plugins_Wipe"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -130,6 +130,7 @@ BigWigs3DB = {
 	},
 }
 BigWigsIconDB = {
+	["minimapPos"] = 355.0676798520623,
 }
 BigWigsStatsDB = {
 }
