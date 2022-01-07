@@ -1,0 +1,7 @@
+## Interface: 90005
+## Title: BoostMeNot
+## Author: LandedSpaceman
+## Version: 1.1
+## SavedVariables: BoostMeNot_Threshhold, BoostMeNot_Enabled, BoostMeNot_DeveloperMode, BoostMeNot_DeveloperModeOnlyShowPass
+Blacklist.lua
+BoostMeNot.lua
