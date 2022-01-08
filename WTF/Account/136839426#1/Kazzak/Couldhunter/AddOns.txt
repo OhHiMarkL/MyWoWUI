@@ -25,3 +25,4 @@ RaiderIO_DB_KR_H: disabled
 RaiderIO_DB_KR_A_R: disabled
 RaiderIO_DB_KR_A: disabled
 ElvUI_OptionsUI: enabled
+LittleWigs_Classic: enabled

@@ -202,12 +202,12 @@ AstralKeys = {
 		["source"] = "guild",
 		["weekly_best"] = 17,
 		["class"] = "WARRIOR",
-		["key_level"] = 9,
+		["key_level"] = 8,
 		["unit"] = "Testofury-Kazzak",
-		["dungeon_id"] = 376,
+		["dungeon_id"] = 378,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 212279,
+		["time_stamp"] = 272795,
 	}, -- [19]
 	{
 		["source"] = "guild",
@@ -365,14 +365,14 @@ AstralKeys = {
 	}, -- [33]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 16,
+		["weekly_best"] = 17,
 		["class"] = "MAGE",
 		["key_level"] = 18,
 		["unit"] = "Cosinusoidal-Kazzak",
 		["dungeon_id"] = 382,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 6,
+		["time_stamp"] = 273613,
 	}, -- [34]
 	{
 		["source"] = "guild",
@@ -401,8 +401,8 @@ AstralCharacters = {
 	{
 		["weekly_best"] = 0,
 		["class"] = "HUNTER",
-		["faction"] = 1,
 		["unit"] = "Couldhunter-Kazzak",
+		["faction"] = 1,
 	}, -- [1]
 }
 AstralKeysSettings = {
@@ -416,10 +416,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["guild"] = false,
-			["raid"] = false,
-			["no_key"] = false,
 			["party"] = true,
+			["raid"] = false,
+			["guild"] = false,
+			["no_key"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -444,9 +444,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "GUILD",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -455,8 +453,11 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "GUILD",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 	},
+	["new_settings_config"] = true,
 	["friendOptions"] = {
 		["friend_sync"] = {
 			["isEnabled"] = true,
@@ -465,7 +466,6 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 	},
-	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
@@ -513,18 +513,18 @@ AstralLists = {
 			["Viciousgirl-Kazzak"] = true,
 			["Æonix-Kazzak"] = true,
 			["Cimb-Kazzak"] = true,
-			["Dietar-Kazzak"] = true,
-			["Joppis-Kazzak"] = true,
+			["Cosinusoidal-Kazzak"] = true,
 			["Felicìa-Kazzak"] = true,
+			["Jnrott-Kazzak"] = true,
 			["Doykata-Kazzak"] = true,
 			["Åcåndruid-Kazzak"] = true,
-			["Wirthey-Kazzak"] = true,
-			["Ctrln-Kazzak"] = true,
-			["Têmpure-Kazzak"] = true,
 			["Kabzøn-Kazzak"] = true,
-			["Jnrott-Kazzak"] = true,
+			["Têmpure-Kazzak"] = true,
+			["Ctrln-Kazzak"] = true,
+			["Dietar-Kazzak"] = true,
+			["Wirthey-Kazzak"] = true,
 			["Ivgangria-Kazzak"] = true,
-			["Cosinusoidal-Kazzak"] = true,
+			["Joppis-Kazzak"] = true,
 		},
 	}, -- [1]
 	{

@@ -3,18 +3,21 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "eu-Couldhunter-kazzak"
 RaiderIO_MissingCharacters = {
-	["eu-Blueeyedwish-kazzak"] = true,
-	["eu-Duraziel-the-maelstrom"] = true,
-	["eu-Thaindon-kazzak"] = true,
-	["eu-Windal-ghostlands"] = true,
-	["eu-Knomi-the-maelstrom"] = true,
-	["eu-Tahjira-kazzak"] = true,
-	["eu-Milkydream-deathwing"] = true,
-	["eu-Diligence-the-maelstrom"] = true,
-	["eu-Lokaseena-the-maelstrom"] = true,
-	["eu-Cougarz-the-maelstrom"] = true,
-	["eu-Yøgî-kazzak"] = true,
-	["eu-Trolozaurus-the-maelstrom"] = true,
+	["eu-Crazykind-kazzak"] = true,
+	["eu-Palanuss-conseil-des-ombres"] = true,
+	["eu-Loxagoss-kazzak"] = true,
+	["eu-Lagopus-kazzak"] = true,
+	["eu-Saramcmlxxii-kazzak"] = true,
+	["eu-Badzug-kazzak"] = true,
+	["eu-Gossipgurlxo-kazzak"] = true,
+	["eu-Uon-kazzak"] = true,
+	["eu-Rajel-kazzak"] = true,
+	["eu-Пес-deathweaver"] = true,
+	["eu-Gaulapriest-kazzak"] = true,
+	["eu-Furrgold-kazzak"] = true,
+	["eu-Ñarsis-kazzak"] = true,
+	["eu-Njaldr-kazzak"] = true,
+	["eu-Gisèle-kazzak"] = true,
 }
 RaiderIO_MissingServers = {
 }
