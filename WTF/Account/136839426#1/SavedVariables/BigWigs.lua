@@ -8,8 +8,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Glubtok"] = {
-		},
 		["BigWigs_Plugins_Alt Power"] = {
 		},
 		["BigWigs_Plugins_BossBlock"] = {
@@ -24,9 +22,9 @@ BigWigs3DB = {
 		["BigWigs_Plugins_AutoReply"] = {
 			["profiles"] = {
 				["Default"] = {
-					["disabled"] = false,
 					["exitCombat"] = 4,
 					["mode"] = 4,
+					["disabled"] = false,
 					["modeOther"] = 2,
 				},
 			},
@@ -90,18 +88,18 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					["BigWigsEmphasizeAnchor_y"] = 368.0000842968657,
-					["BigWigsAnchor_width"] = 242.0000305175781,
 					["BigWigsEmphasizeAnchor_height"] = 23.99991607666016,
-					["growup"] = true,
+					["BigWigsAnchor_width"] = 242.0000305175781,
+					["BigWigsAnchor_y"] = 383,
 					["fontName"] = "Expressway",
 					["BigWigsAnchor_height"] = 24.99991989135742,
-					["BigWigsAnchor_y"] = 383,
-					["spacing"] = 4,
-					["texture"] = "ElvUI Blank",
-					["barStyle"] = "ElvUI",
-					["BigWigsEmphasizeAnchor_width"] = 286.9999389648438,
 					["BigWigsEmphasizeAnchor_x"] = 446,
 					["BigWigsAnchor_x"] = 446,
+					["spacing"] = 4,
+					["BigWigsEmphasizeAnchor_width"] = 286.9999389648438,
+					["barStyle"] = "ElvUI",
+					["growup"] = true,
+					["texture"] = "ElvUI Blank",
 				},
 			},
 		},
@@ -116,6 +114,8 @@ BigWigs3DB = {
 					["disabled"] = true,
 					["emphFontName"] = "Expressway",
 					["emphFontSize"] = 52,
+					["growUpwards"] = false,
+					["emphOutline"] = "OUTLINE",
 					["emphPosition"] = {
 						"TOP", -- [1]
 						"TOP", -- [2]
@@ -123,8 +123,6 @@ BigWigs3DB = {
 						-300.0003662109375, -- [4]
 					},
 					["fontName"] = "Expressway",
-					["growUpwards"] = false,
-					["emphOutline"] = "OUTLINE",
 					["normalPosition"] = {
 						"LEFT", -- [1]
 						"LEFT", -- [2]
@@ -137,8 +135,10 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
-					["fontName"] = "Expressway",
-					["width"] = 229.9997863769531,
+					["posx"] = 487.4668222983746,
+					["posy"] = 233.0664021293178,
+					["lock"] = true,
+					["height"] = 98.99994659423828,
 					["objects"] = {
 						["title"] = false,
 						["close"] = false,
@@ -147,10 +147,8 @@ BigWigs3DB = {
 						["sound"] = false,
 						["background"] = false,
 					},
-					["posy"] = 233.0664021293178,
-					["lock"] = true,
-					["height"] = 98.99994659423828,
-					["posx"] = 487.4668222983746,
+					["fontName"] = "Expressway",
+					["width"] = 229.9997863769531,
 				},
 			},
 		},
@@ -181,7 +179,8 @@ BigWigs3DB = {
 	},
 }
 BigWigsIconDB = {
-	["minimapPos"] = 355.0676798520623,
+	["minimapPos"] = 273.39710754206,
+	["hide"] = true,
 }
 BigWigsStatsDB = {
 }

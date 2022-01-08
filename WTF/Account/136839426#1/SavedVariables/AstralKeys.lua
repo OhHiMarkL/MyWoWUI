@@ -48,12 +48,12 @@ AstralKeys = {
 		["source"] = "guild",
 		["weekly_best"] = 16,
 		["class"] = "MONK",
-		["key_level"] = 19,
+		["key_level"] = 18,
 		["unit"] = "Tsunáde-Kazzak",
-		["dungeon_id"] = 379,
+		["dungeon_id"] = 377,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 9,
+		["time_stamp"] = 276616,
 	}, -- [5]
 	{
 		["source"] = "guild",
@@ -134,14 +134,14 @@ AstralKeys = {
 	}, -- [12]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 19,
+		["weekly_best"] = 20,
 		["class"] = "PALADIN",
 		["key_level"] = 19,
 		["unit"] = "Sparttanec-Kazzak",
 		["dungeon_id"] = 380,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 221208,
+		["time_stamp"] = 277195,
 	}, -- [13]
 	{
 		["source"] = "guild",
@@ -207,7 +207,7 @@ AstralKeys = {
 		["dungeon_id"] = 378,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 272795,
+		["time_stamp"] = 276766,
 	}, -- [19]
 	{
 		["source"] = "guild",
@@ -409,17 +409,17 @@ AstralKeysSettings = {
 	["wipedOldTables"] = true,
 	["general"] = {
 		["show_minimap_button"] = {
-			["isEnabled"] = true,
+			["isEnabled"] = false,
 		},
 		["init_time"] = 1641970800,
 		["expanded_tooltip"] = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["party"] = true,
 			["raid"] = false,
-			["guild"] = false,
+			["party"] = true,
 			["no_key"] = false,
+			["guild"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -474,7 +474,7 @@ AstralMinimap = {
 	["profiles"] = {
 		["Couldhunter - Kazzak"] = {
 			["minimap"] = {
-				["minimapPos"] = 357.7848710427043,
+				["minimapPos"] = 283.4858946722238,
 			},
 		},
 	},

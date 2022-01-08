@@ -26,3 +26,5 @@ RaiderIO_DB_KR_A_R: disabled
 RaiderIO_DB_KR_A: disabled
 ElvUI_OptionsUI: enabled
 LittleWigs_Classic: enabled
+MinimapButtonFrame_SkinPack: disabled
+MinimapButtonFrame: disabled

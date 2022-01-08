@@ -134,14 +134,14 @@ AstralKeys = {
 	}, -- [12]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 19,
+		["weekly_best"] = 20,
 		["class"] = "PALADIN",
 		["key_level"] = 19,
 		["unit"] = "Sparttanec-Kazzak",
 		["dungeon_id"] = 380,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 221208,
+		["time_stamp"] = 275480,
 	}, -- [13]
 	{
 		["source"] = "guild",
@@ -202,12 +202,12 @@ AstralKeys = {
 		["source"] = "guild",
 		["weekly_best"] = 17,
 		["class"] = "WARRIOR",
-		["key_level"] = 9,
+		["key_level"] = 8,
 		["unit"] = "Testofury-Kazzak",
-		["dungeon_id"] = 376,
+		["dungeon_id"] = 378,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 212279,
+		["time_stamp"] = 275350,
 	}, -- [19]
 	{
 		["source"] = "guild",
@@ -365,14 +365,14 @@ AstralKeys = {
 	}, -- [33]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 16,
+		["weekly_best"] = 17,
 		["class"] = "MAGE",
 		["key_level"] = 18,
 		["unit"] = "Cosinusoidal-Kazzak",
 		["dungeon_id"] = 382,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 6,
+		["time_stamp"] = 273613,
 	}, -- [34]
 	{
 		["source"] = "guild",
@@ -409,17 +409,17 @@ AstralKeysSettings = {
 	["wipedOldTables"] = true,
 	["general"] = {
 		["show_minimap_button"] = {
-			["isEnabled"] = true,
+			["isEnabled"] = false,
 		},
 		["init_time"] = 1641970800,
 		["expanded_tooltip"] = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["guild"] = false,
-			["raid"] = false,
 			["no_key"] = false,
 			["party"] = true,
+			["guild"] = false,
+			["raid"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -474,7 +474,7 @@ AstralMinimap = {
 	["profiles"] = {
 		["Couldhunter - Kazzak"] = {
 			["minimap"] = {
-				["minimapPos"] = 357.7848710427043,
+				["minimapPos"] = 283.4858946722238,
 			},
 		},
 	},
@@ -513,12 +513,12 @@ AstralLists = {
 			["Viciousgirl-Kazzak"] = true,
 			["Æonix-Kazzak"] = true,
 			["Cimb-Kazzak"] = true,
-			["Dietar-Kazzak"] = true,
 			["Joppis-Kazzak"] = true,
 			["Felicìa-Kazzak"] = true,
+			["Wirthey-Kazzak"] = true,
 			["Doykata-Kazzak"] = true,
 			["Åcåndruid-Kazzak"] = true,
-			["Wirthey-Kazzak"] = true,
+			["Dietar-Kazzak"] = true,
 			["Ctrln-Kazzak"] = true,
 			["Têmpure-Kazzak"] = true,
 			["Kabzøn-Kazzak"] = true,

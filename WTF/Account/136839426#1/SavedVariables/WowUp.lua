@@ -1,6 +1,6 @@
 
 WowUpAddonInformation = {
-	["showMinimapIcon"] = true,
+	["showMinimapIcon"] = false,
 	["showPopupNotification"] = true,
 	["showChatNotificationList"] = true,
 	["showChatNotification"] = true,

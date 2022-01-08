@@ -1,0 +1,52 @@
+
+MBFDB = {
+	["profileKeys"] = {
+		["Couldhunter - Kazzak"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["addonScale"] = 0.5,
+			["MBFHideMiniMapWorldMapButton"] = true,
+			["locked"] = true,
+			["MBFHideGameTimeFrame"] = true,
+			["minimapButton"] = {
+				["hide"] = false,
+			},
+			["mbfAnchor"] = "BOTTOMRIGHT",
+			["MBFHideMinimapZoomIn"] = true,
+			["MBF_Ignore"] = {
+				nil, -- [1]
+				"QueueStatusMinimapButton", -- [2]
+			},
+			["MBFBackdropColor"] = {
+				["Alpha"] = 0.9942783322185278,
+			},
+			["MBFHideMiniMapTracking"] = true,
+			["MBFHideMiniMapMailFrame"] = true,
+			["excludeLFG"] = true,
+			["colorLocked"] = "All",
+			["customChildren"] = {
+				"MinimapButtonFrameDragButton", -- [1]
+				"MiniMapMailFrameDisabled", -- [2]
+				"MiniMapMailFrame", -- [3]
+				"LibDBIcon10_AstralKeys", -- [4]
+				"LibDBIcon10_BigWigs", -- [5]
+				"LibDBIcon10_DungeonTools", -- [6]
+				"LibDBIcon10_SimulationCraft", -- [7]
+				"LibDBIcon10_WeakAuras", -- [8]
+				"LibDBIcon10_Details", -- [9]
+				"LibDBIcon10_DetailsStreamer", -- [10]
+				"LibDBIcon10_Leatrix_Plus", -- [11]
+				"LibDBIcon10_WowUp", -- [12]
+			},
+			["disabledMail"] = false,
+			["grabBlizzButtons"] = true,
+			["MBF_FrameLocation"] = {
+				"BOTTOMRIGHT", -- [1]
+				nil, -- [2]
+				nil, -- [3]
+				-124.0000381469727, -- [4]
+			},
+		},
+	},
+}
