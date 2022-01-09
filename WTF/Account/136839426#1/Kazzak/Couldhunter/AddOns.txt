@@ -28,3 +28,4 @@ ElvUI_OptionsUI: enabled
 LittleWigs_Classic: enabled
 MinimapButtonFrame_SkinPack: disabled
 MinimapButtonFrame: disabled
+LittleWigs: enabled

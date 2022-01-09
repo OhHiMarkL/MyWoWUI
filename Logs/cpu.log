@@ -1,6 +1,6 @@
-1/8 12:36:06.668  vendor: AuthenticAMD
-1/8 12:36:06.668  branding: AMD Ryzen 7 5800X 8-Core Processor             
-1/8 12:36:06.668  features: lahf64 cmpxchg16b sse sse2 sse3 ssse3 sse41 sse42 avx avx2 aesni clmul sha rdrand 
-1/8 12:36:06.668  sockets: 1
-1/8 12:36:06.668  cores: 8
-1/8 12:36:06.668  threads: 16
+1/8 13:06:09.308  vendor: AuthenticAMD
+1/8 13:06:09.308  branding: AMD Ryzen 7 5800X 8-Core Processor             
+1/8 13:06:09.308  features: lahf64 cmpxchg16b sse sse2 sse3 ssse3 sse41 sse42 avx avx2 aesni clmul sha rdrand 
+1/8 13:06:09.308  sockets: 1
+1/8 13:06:09.308  cores: 8
+1/8 13:06:09.308  threads: 16

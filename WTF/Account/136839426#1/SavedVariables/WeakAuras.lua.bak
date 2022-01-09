@@ -2,16 +2,7 @@
 WeakAurasSaved = {
 	["dynamicIconCache"] = {
 	},
-	["login_squelch_time"] = 10,
-	["lastArchiveClear"] = 1641576474,
-	["minimap"] = {
-		["minimapPos"] = 351.4825455959955,
-		["hide"] = true,
-	},
-	["lastUpgrade"] = 1641576487,
-	["dbVersion"] = 45,
-	["registered"] = {
-	},
+	["editor_tab_spaces"] = 4,
 	["displays"] = {
 		["Details! Aura Group"] = {
 			["grow"] = "DOWN",
@@ -106,9 +97,9 @@ WeakAurasSaved = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["uid"] = "I7Y0mTf5KSP",
-			["animate"] = false,
 			["rowSpace"] = 1,
+			["animate"] = false,
+			["fullCircle"] = true,
 			["scale"] = 1,
 			["radius"] = 200,
 			["border"] = false,
@@ -116,22 +107,22 @@ WeakAurasSaved = {
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["sort"] = "none",
-			["selfPoint"] = "TOP",
-			["fullCircle"] = true,
+			["gridType"] = "RD",
+			["arcLength"] = 360,
 			["constantFactor"] = "RADIUS",
-			["frameStrata"] = 1,
+			["uid"] = "I7Y0mTf5KSP",
 			["borderOffset"] = 4,
 			["config"] = {
 			},
-			["gridType"] = "RD",
-			["id"] = "Details! Aura Group",
 			["useLimit"] = false,
+			["id"] = "Details! Aura Group",
+			["frameStrata"] = 1,
 			["gridWidth"] = 5,
 			["anchorFrameType"] = "SCREEN",
 			["limit"] = 5,
 			["borderInset"] = 1,
 			["rotation"] = 0,
-			["arcLength"] = 360,
+			["selfPoint"] = "TOP",
 			["conditions"] = {
 			},
 			["information"] = {
@@ -232,9 +223,9 @@ WeakAurasSaved = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["uid"] = "SDIPUg1xC(L",
-			["animate"] = false,
 			["rowSpace"] = 1,
+			["animate"] = false,
+			["fullCircle"] = true,
 			["scale"] = 1,
 			["radius"] = 200,
 			["border"] = false,
@@ -242,22 +233,22 @@ WeakAurasSaved = {
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["sort"] = "none",
-			["selfPoint"] = "TOP",
-			["fullCircle"] = true,
+			["gridType"] = "RD",
+			["arcLength"] = 360,
 			["constantFactor"] = "RADIUS",
-			["frameStrata"] = 1,
+			["uid"] = "SDIPUg1xC(L",
 			["borderOffset"] = 4,
 			["config"] = {
 			},
-			["gridType"] = "RD",
-			["id"] = "Details! Boss Mods Group",
 			["useLimit"] = false,
+			["id"] = "Details! Boss Mods Group",
+			["frameStrata"] = 1,
 			["gridWidth"] = 5,
 			["anchorFrameType"] = "SCREEN",
 			["limit"] = 5,
 			["borderInset"] = 1,
 			["rotation"] = 0,
-			["arcLength"] = 360,
+			["selfPoint"] = "TOP",
 			["conditions"] = {
 			},
 			["information"] = {
@@ -266,4 +257,15 @@ WeakAurasSaved = {
 			["xOffset"] = 0,
 		},
 	},
+	["lastArchiveClear"] = 1641576474,
+	["minimap"] = {
+		["minimapPos"] = 351.4825455959955,
+		["hide"] = true,
+	},
+	["lastUpgrade"] = 1641576487,
+	["dbVersion"] = 45,
+	["registered"] = {
+	},
+	["login_squelch_time"] = 10,
+	["editor_theme"] = "Monokai",
 }

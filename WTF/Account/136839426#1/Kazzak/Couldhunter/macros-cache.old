@@ -1,0 +1,62 @@
+VER 3 0100000000000015 "BS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Binding Shot; Binding Shot
+END
+VER 3 010000000000000E "CS2" "INV_MISC_QUESTIONMARK"
+#showtooltip Counter Shot
+/use Claw
+/use Bite
+/use Smack
+/cast Counter Shot
+END
+VER 3 0100000000000008 "FT" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Freezing Trap
+END
+VER 3 0100000000000014 "FuckTheTank" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus][@pet] Misdirection; Misdirection
+END
+VER 3 0100000000000004 "Multishot" "INV_MISC_QUESTIONMARK"
+#showtooltip Multi-Shot
+/petattack
+/use Claw
+/use Bite
+/use Smack
+/cast Multi-Shot
+END
+VER 3 0100000000000013 "RA" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Resonating Arrow
+END
+VER 3 0100000000000018 "Slow" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus] Concussive Shot; Concussive Shot
+END
+VER 3 0100000000000006 "SM" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,help,nodead][@focus,help,nodead][@player]Spirit Mend
+END
+VER 3 0100000000000017 "tr" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Mend Pet
+END
+VER 3 0100000000000016 "Trueshot" "INV_MISC_QUESTIONMARK"
+#showtooltip Trueshot
+/cast Berserking
+/cast Trueshot
+END
+VER 3 0100000000000009 "TT" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Tar Trap
+END
+VER 3 0100000000000012 "Volley" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Volley
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1HM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Bee[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

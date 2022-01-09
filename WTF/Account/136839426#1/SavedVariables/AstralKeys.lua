@@ -20,7 +20,7 @@ AstralKeys = {
 		["dungeon_id"] = 381,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 214647,
+		["time_stamp"] = 310055,
 	}, -- [2]
 	{
 		["source"] = "guild",
@@ -35,14 +35,14 @@ AstralKeys = {
 	}, -- [3]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 0,
+		["weekly_best"] = 16,
 		["class"] = "ROGUE",
-		["key_level"] = 18,
+		["key_level"] = 17,
 		["unit"] = "Mohadese-Kazzak",
-		["dungeon_id"] = 380,
+		["dungeon_id"] = 377,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 1,
+		["time_stamp"] = 310586,
 	}, -- [4]
 	{
 		["source"] = "guild",
@@ -59,12 +59,12 @@ AstralKeys = {
 		["source"] = "guild",
 		["weekly_best"] = 0,
 		["class"] = "MONK",
-		["key_level"] = 5,
+		["key_level"] = 6,
 		["unit"] = "Druppel-Kazzak",
-		["dungeon_id"] = 381,
+		["dungeon_id"] = 382,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 220533,
+		["time_stamp"] = 297642,
 	}, -- [6]
 	{
 		["source"] = "guild",
@@ -123,14 +123,14 @@ AstralKeys = {
 	}, -- [11]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 12,
+		["weekly_best"] = 13,
 		["class"] = "SHAMAN",
-		["key_level"] = 15,
+		["key_level"] = 13,
 		["unit"] = "Linu-Kazzak",
 		["dungeon_id"] = 381,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 2,
+		["time_stamp"] = 310089,
 	}, -- [12]
 	{
 		["source"] = "guild",
@@ -141,7 +141,7 @@ AstralKeys = {
 		["dungeon_id"] = 380,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 277195,
+		["time_stamp"] = 310401,
 	}, -- [13]
 	{
 		["source"] = "guild",
@@ -174,7 +174,7 @@ AstralKeys = {
 		["dungeon_id"] = 382,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 221416,
+		["time_stamp"] = 304727,
 	}, -- [16]
 	{
 		["source"] = "guild",
@@ -207,18 +207,18 @@ AstralKeys = {
 		["dungeon_id"] = 378,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 276766,
+		["time_stamp"] = 310461,
 	}, -- [19]
 	{
 		["source"] = "guild",
 		["weekly_best"] = 20,
 		["class"] = "SHAMAN",
-		["key_level"] = 19,
+		["key_level"] = 21,
 		["unit"] = "Têmp-Kazzak",
-		["dungeon_id"] = 380,
+		["dungeon_id"] = 381,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 221864,
+		["time_stamp"] = 308361,
 	}, -- [20]
 	{
 		["source"] = "guild",
@@ -240,7 +240,7 @@ AstralKeys = {
 		["dungeon_id"] = 376,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 214717,
+		["time_stamp"] = 302690,
 	}, -- [22]
 	{
 		["source"] = "guild",
@@ -277,14 +277,14 @@ AstralKeys = {
 	}, -- [25]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 5,
+		["weekly_best"] = 8,
 		["class"] = "MAGE",
-		["key_level"] = 8,
+		["key_level"] = 9,
 		["unit"] = "Wirthey-Kazzak",
-		["dungeon_id"] = 375,
+		["dungeon_id"] = 380,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 221729,
+		["time_stamp"] = 309524,
 	}, -- [26]
 	{
 		["source"] = "guild",
@@ -306,18 +306,18 @@ AstralKeys = {
 		["dungeon_id"] = 378,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 2,
+		["time_stamp"] = 309172,
 	}, -- [28]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 11,
+		["weekly_best"] = 12,
 		["class"] = "HUNTER",
 		["key_level"] = 12,
 		["unit"] = "Minati-Kazzak",
 		["dungeon_id"] = 381,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 221535,
+		["time_stamp"] = 304414,
 	}, -- [29]
 	{
 		["source"] = "guild",
@@ -332,14 +332,14 @@ AstralKeys = {
 	}, -- [30]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 11,
+		["weekly_best"] = 16,
 		["class"] = "MONK",
-		["key_level"] = 16,
+		["key_level"] = 15,
 		["unit"] = "Cimb-Kazzak",
-		["dungeon_id"] = 382,
+		["dungeon_id"] = 381,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 219493,
+		["time_stamp"] = 287072,
 	}, -- [31]
 	{
 		["source"] = "guild",
@@ -350,7 +350,7 @@ AstralKeys = {
 		["dungeon_id"] = 382,
 		["week"] = 233,
 		["faction"] = 1,
-		["time_stamp"] = 219388,
+		["time_stamp"] = 304988,
 	}, -- [32]
 	{
 		["source"] = "guild",
@@ -396,14 +396,42 @@ AstralKeys = {
 		["faction"] = 1,
 		["time_stamp"] = 1,
 	}, -- [36]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 0,
+		["class"] = "WARRIOR",
+		["key_level"] = 11,
+		["unit"] = "Dzerpinski-Kazzak",
+		["dungeon_id"] = 375,
+		["week"] = 233,
+		["faction"] = 1,
+		["time_stamp"] = 287254,
+	}, -- [37]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 8,
+		["class"] = "HUNTER",
+		["key_level"] = 4,
+		["unit"] = "Couldhunter-Kazzak",
+		["dungeon_id"] = 375,
+		["week"] = 233,
+		["faction"] = 1,
+		["time_stamp"] = 310588,
+	}, -- [38]
 }
 AstralCharacters = {
 	{
-		["weekly_best"] = 0,
+		["weekly_best"] = 8,
 		["class"] = "HUNTER",
 		["unit"] = "Couldhunter-Kazzak",
 		["faction"] = 1,
 	}, -- [1]
+	{
+		["weekly_best"] = 0,
+		["class"] = "WARRIOR",
+		["faction"] = 1,
+		["unit"] = "Feetpov-Kazzak",
+	}, -- [2]
 }
 AstralKeysSettings = {
 	["wipedOldTables"] = true,
@@ -469,13 +497,31 @@ AstralKeysSettings = {
 }
 AstralMinimap = {
 	["profileKeys"] = {
+		["Warpy - Kazzak"] = "Warpy - Kazzak",
+		["Feetpov - Kazzak"] = "Feetpov - Kazzak",
+		["Iwantdie - Kazzak"] = "Iwantdie - Kazzak",
 		["Couldhunter - Kazzak"] = "Couldhunter - Kazzak",
+		["Drappy - Kazzak"] = "Drappy - Kazzak",
+		["Poepieladin - Kazzak"] = "Poepieladin - Kazzak",
+		["Rawrlocke - Kazzak"] = "Rawrlocke - Kazzak",
 	},
 	["profiles"] = {
+		["Warpy - Kazzak"] = {
+		},
+		["Feetpov - Kazzak"] = {
+		},
+		["Iwantdie - Kazzak"] = {
+		},
 		["Couldhunter - Kazzak"] = {
 			["minimap"] = {
 				["minimapPos"] = 283.4858946722238,
 			},
+		},
+		["Drappy - Kazzak"] = {
+		},
+		["Poepieladin - Kazzak"] = {
+		},
+		["Rawrlocke - Kazzak"] = {
 		},
 	},
 }
@@ -514,17 +560,19 @@ AstralLists = {
 			["Æonix-Kazzak"] = true,
 			["Cimb-Kazzak"] = true,
 			["Cosinusoidal-Kazzak"] = true,
-			["Felicìa-Kazzak"] = true,
+			["Joppis-Kazzak"] = true,
 			["Jnrott-Kazzak"] = true,
-			["Doykata-Kazzak"] = true,
-			["Åcåndruid-Kazzak"] = true,
 			["Kabzøn-Kazzak"] = true,
 			["Têmpure-Kazzak"] = true,
+			["Doykata-Kazzak"] = true,
+			["Couldhunter-Kazzak"] = true,
 			["Ctrln-Kazzak"] = true,
-			["Dietar-Kazzak"] = true,
 			["Wirthey-Kazzak"] = true,
+			["Åcåndruid-Kazzak"] = true,
+			["Dietar-Kazzak"] = true,
+			["Felicìa-Kazzak"] = true,
 			["Ivgangria-Kazzak"] = true,
-			["Joppis-Kazzak"] = true,
+			["Dzerpinski-Kazzak"] = true,
 		},
 	}, -- [1]
 	{

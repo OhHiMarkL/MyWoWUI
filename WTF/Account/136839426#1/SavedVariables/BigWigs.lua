@@ -1,23 +1,54 @@
 
 BigWigs3DB = {
 	["namespaces"] = {
-		["BigWigs_Plugins_Victory"] = {
+		["BigWigs_Plugins_Alt Power"] = {
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["BigWigs_Plugins_Statistics"] = {
 			["profiles"] = {
 				["Default"] = {
-					["soundName"] = "None",
+					["showBar"] = true,
 				},
 			},
 		},
-		["BigWigs_Plugins_Alt Power"] = {
-		},
-		["BigWigs_Plugins_BossBlock"] = {
+		["BigWigs_Plugins_AltPower"] = {
 			["profiles"] = {
 				["Default"] = {
-					["disableErrorSpeech"] = true,
+					["disabled"] = true,
+				},
+			},
+		},
+		["BigWigs_Plugins_Raid Icons"] = {
+		},
+		["BigWigs_Plugins_Messages"] = {
+			["profiles"] = {
+				["Default"] = {
+					["outline"] = "OUTLINE",
+					["disabled"] = true,
+					["emphFontName"] = "Expressway",
+					["emphFontSize"] = 52,
+					["growUpwards"] = false,
+					["emphOutline"] = "OUTLINE",
+					["emphPosition"] = {
+						"TOP", -- [1]
+						"TOP", -- [2]
+						nil, -- [3]
+						-300.0003662109375, -- [4]
+					},
+					["fontName"] = "Expressway",
+					["normalPosition"] = {
+						"LEFT", -- [1]
+						"LEFT", -- [2]
+						278.0006408691406, -- [3]
+						-310.0003967285156, -- [4]
+					},
 				},
 			},
 		},
 		["BigWigs_Plugins_Sounds"] = {
+		},
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_AutoReply"] = {
 			["profiles"] = {
@@ -43,10 +74,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_AltPower"] = {
+		["BigWigs_Plugins_BossBlock"] = {
 			["profiles"] = {
 				["Default"] = {
-					["disabled"] = true,
+					["disableErrorSpeech"] = true,
 				},
 			},
 		},
@@ -74,7 +105,12 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
+		["BigWigs_Plugins_Victory"] = {
+			["profiles"] = {
+				["Default"] = {
+					["soundName"] = "None",
+				},
+			},
 		},
 		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
@@ -105,40 +141,9 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
-		["BigWigs_Plugins_Wipe"] = {
-		},
-		["BigWigs_Plugins_Messages"] = {
-			["profiles"] = {
-				["Default"] = {
-					["outline"] = "OUTLINE",
-					["disabled"] = true,
-					["emphFontName"] = "Expressway",
-					["emphFontSize"] = 52,
-					["growUpwards"] = false,
-					["emphOutline"] = "OUTLINE",
-					["emphPosition"] = {
-						"TOP", -- [1]
-						"TOP", -- [2]
-						nil, -- [3]
-						-300.0003662109375, -- [4]
-					},
-					["fontName"] = "Expressway",
-					["normalPosition"] = {
-						"LEFT", -- [1]
-						"LEFT", -- [2]
-						278.0006408691406, -- [3]
-						-310.0003967285156, -- [4]
-					},
-				},
-			},
-		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
-					["posx"] = 487.4668222983746,
-					["posy"] = 233.0664021293178,
-					["lock"] = true,
-					["height"] = 98.99994659423828,
 					["objects"] = {
 						["title"] = false,
 						["close"] = false,
@@ -147,25 +152,20 @@ BigWigs3DB = {
 						["sound"] = false,
 						["background"] = false,
 					},
+					["posy"] = 233.0664021293178,
+					["lock"] = true,
+					["height"] = 98.99994659423828,
+					["posx"] = 487.4668222983746,
 					["fontName"] = "Expressway",
 					["width"] = 229.9997863769531,
 				},
 			},
-		},
-		["LibDualSpec-1.0"] = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 			["profiles"] = {
 				["Default"] = {
 					["endPullSound"] = "None",
 					["combatLog"] = true,
-				},
-			},
-		},
-		["BigWigs_Plugins_Statistics"] = {
-			["profiles"] = {
-				["Default"] = {
-					["showBar"] = true,
 				},
 			},
 		},

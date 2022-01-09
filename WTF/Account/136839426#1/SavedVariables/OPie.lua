@@ -11,11 +11,25 @@ OneRing_Config = {
 			},
 			["Bindings"] = {
 				["itiesItems"] = "CTRL-SHIFT-1",
+				["lockDemons"] = "CTRL-SHIFT-2",
 			},
 		},
 	},
 	["PersistentStorage"] = {
 		["RingKeeper"] = {
+			["lockDemons"] = {
+				{
+					["id"] = 688,
+					["sliceToken"] = "ABue5XrpEA1",
+				}, -- [1]
+				{
+					["id"] = 697,
+					["sliceToken"] = "ABue5XrpEAr",
+				}, -- [2]
+				["save"] = true,
+				["limit"] = "Warpy-Kazzak",
+				["name"] = "Warlock Demons",
+			},
 			["itiesItems"] = {
 				{
 					"toy", -- [1]

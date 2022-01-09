@@ -1,7 +1,13 @@
 
 ElvDB = {
 	["profileKeys"] = {
+		["Warpy - Kazzak"] = "Default",
+		["Feetpov - Kazzak"] = "Default",
+		["Iwantdie - Kazzak"] = "Default",
 		["Couldhunter - Kazzak"] = "Default",
+		["Drappy - Kazzak"] = "Default",
+		["Poepieladin - Kazzak"] = "Default",
+		["Rawrlocke - Kazzak"] = "Default",
 	},
 	["DisabledAddOns"] = {
 	},
@@ -24,9 +30,23 @@ ElvDB = {
 				["honor"] = {
 					["enable"] = false,
 				},
+				["statusbar"] = "ElvUI Blank",
+				["experience"] = {
+					["fontSize"] = 13,
+					["yOffset"] = 1,
+					["fontOutline"] = "OUTLINE",
+					["hideInCombat"] = true,
+					["clickThrough"] = true,
+					["textFormat"] = "CURPERCREM",
+					["width"] = 421,
+					["font"] = "Expressway",
+					["height"] = 21,
+					["showLevel"] = true,
+				},
 				["azerite"] = {
 					["enable"] = false,
 				},
+				["customTexture"] = true,
 			},
 			["general"] = {
 				["totems"] = {
@@ -141,10 +161,10 @@ ElvDB = {
 				["LeftChatMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,1,25",
 				["GMMover"] = "BOTTOMLEFT,UIParent,BOTTOMLEFT,628,603",
 				["MirrorTimer3Mover"] = "TOP,MirrorTimer2,BOTTOM,0,0",
-				["ElvUF_FocusMover"] = "BOTTOMRIGHT,UIParent,BOTTOMRIGHT,-342,415",
+				["ElvUF_FocusMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-2,-237",
 				["EventToastMover"] = "TOP,ElvUIParent,TOP,0,-150",
 				["MicrobarMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,3,-48",
-				["ExperienceBarMover"] = "BOTTOMRIGHT,UIParent,BOTTOMRIGHT,-128,330",
+				["ExperienceBarMover"] = "BOTTOM,UIParent,BOTTOM,0,77",
 				["ElvUF_TargetMover"] = "BOTTOM,ElvUIParent,BOTTOM,335,427",
 				["PlayerChoiceToggle"] = "TOP,UIParent,TOP,0,-336",
 				["BNETMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,478,2",
@@ -316,6 +336,7 @@ ElvDB = {
 							["text_format"] = "",
 						},
 						["classbar"] = {
+							["enable"] = false,
 							["height"] = 14,
 						},
 						["partyIndicator"] = {
@@ -372,14 +393,14 @@ ElvDB = {
 							["verticalOrientation"] = false,
 							["parent"] = "FRAME",
 							["enable"] = true,
-							["height"] = 14,
-							["altPowerTextFormat"] = "[altpower:current]",
 							["altPowerColor"] = {
 								["r"] = 0.2,
 								["g"] = 0.4,
 								["b"] = 0.8,
 							},
+							["altPowerTextFormat"] = "[altpower:current]",
 							["orientation"] = "HORIZONTAL",
+							["height"] = 14,
 							["strataAndLevel"] = {
 								["frameLevel"] = 1,
 								["useCustomStrata"] = false,
@@ -412,7 +433,7 @@ ElvDB = {
 								["font"] = "Expressway",
 								["justifyH"] = "LEFT",
 								["fontOutline"] = "OUTLINE",
-								["xOffset"] = -9,
+								["xOffset"] = 0,
 								["size"] = 15,
 							},
 						},
@@ -450,7 +471,6 @@ ElvDB = {
 							["anchorPoint"] = "TOPLEFT",
 							["size"] = 22,
 							["yOffset"] = 6,
-							["enable"] = true,
 							["color"] = {
 								["a"] = 1,
 								["b"] = 1,
@@ -458,6 +478,7 @@ ElvDB = {
 								["r"] = 1,
 							},
 							["xOffset"] = -3,
+							["enable"] = true,
 							["defaultColor"] = true,
 							["texture"] = "DEFAULT",
 						},
@@ -559,7 +580,7 @@ ElvDB = {
 							["PartyClass"] = {
 								["attachTextTo"] = "Health",
 								["xOffset"] = 0,
-								["text_format"] = "[classcolor][specialization] [class]",
+								["text_format"] = "[classcolor][class]",
 								["yOffset"] = -5,
 								["font"] = "Expressway",
 								["justifyH"] = "RIGHT",
@@ -638,7 +659,6 @@ ElvDB = {
 				},
 				["font"] = "Expressway",
 				["colors"] = {
-					["healthclass"] = true,
 					["castColor"] = {
 						["a"] = 1,
 						["r"] = 0,
@@ -656,6 +676,12 @@ ElvDB = {
 						["r"] = 0.996078431372549,
 						["g"] = 1,
 						["b"] = 0,
+					},
+					["health"] = {
+						["a"] = 1,
+						["b"] = 0.1254901960784314,
+						["g"] = 0.1254901960784314,
+						["r"] = 0.1254901960784314,
 					},
 					["auraBarBuff"] = {
 						["r"] = 0.6666651964187622,
@@ -726,16 +752,15 @@ ElvDB = {
 				["bar1"] = {
 					["hotkeyFont"] = "Expressway",
 					["macroFont"] = "Expressway",
-					["mouseover"] = true,
 					["hotkeyFontSize"] = 14,
 					["countFontSize"] = 14,
-					["buttonSpacing"] = 1,
+					["macroFontSize"] = 14,
 					["macroFontOutline"] = "OUTLINE",
 					["countFont"] = "Expressway",
 					["buttonSize"] = 37,
 					["countFontOutline"] = "OUTLINE",
 					["hotkeyFontOutline"] = "OUTLINE",
-					["macroFontSize"] = 14,
+					["buttonSpacing"] = 1,
 				},
 				["font"] = "Expressway",
 				["bar7"] = {
@@ -789,17 +814,16 @@ ElvDB = {
 					["hotkeyFont"] = "Expressway",
 					["enabled"] = true,
 					["macroFont"] = "Expressway",
-					["mouseover"] = true,
 					["hotkeyFontSize"] = 14,
 					["visibility"] = "[petbattle] hide; show",
 					["countFontSize"] = 14,
-					["buttonSpacing"] = 1,
+					["macroFontSize"] = 14,
 					["macroFontOutline"] = "OUTLINE",
 					["countFont"] = "Expressway",
 					["buttonSize"] = 37,
 					["countFontOutline"] = "OUTLINE",
 					["hotkeyFontOutline"] = "OUTLINE",
-					["macroFontSize"] = 14,
+					["buttonSpacing"] = 1,
 				},
 				["microbar"] = {
 					["buttons"] = 11,
@@ -1004,7 +1028,7 @@ ElvDB = {
 		},
 		["general"] = {
 			["AceGUI"] = {
-				["height"] = 765,
+				["height"] = 759,
 			},
 			["UIScale"] = 0.5333333333333333,
 		},
@@ -1100,9 +1124,24 @@ ElvDB = {
 }
 ElvPrivateDB = {
 	["profileKeys"] = {
+		["Warpy - Kazzak"] = "Warpy - Kazzak",
+		["Feetpov - Kazzak"] = "Feetpov - Kazzak",
+		["Iwantdie - Kazzak"] = "Iwantdie - Kazzak",
 		["Couldhunter - Kazzak"] = "Couldhunter - Kazzak",
+		["Drappy - Kazzak"] = "Drappy - Kazzak",
+		["Poepieladin - Kazzak"] = "Poepieladin - Kazzak",
+		["Rawrlocke - Kazzak"] = "Rawrlocke - Kazzak",
 	},
 	["profiles"] = {
+		["Warpy - Kazzak"] = {
+			["install_complete"] = 12.58,
+		},
+		["Feetpov - Kazzak"] = {
+			["install_complete"] = 12.58,
+		},
+		["Iwantdie - Kazzak"] = {
+			["install_complete"] = 12.58,
+		},
 		["Couldhunter - Kazzak"] = {
 			["general"] = {
 				["totemBar"] = false,
@@ -1111,6 +1150,15 @@ ElvPrivateDB = {
 				["classColorMentionsSpeech"] = false,
 			},
 			["theme"] = "class",
+			["install_complete"] = 12.58,
+		},
+		["Drappy - Kazzak"] = {
+			["install_complete"] = 12.58,
+		},
+		["Poepieladin - Kazzak"] = {
+			["install_complete"] = 12.58,
+		},
+		["Rawrlocke - Kazzak"] = {
 			["install_complete"] = 12.58,
 		},
 	},
